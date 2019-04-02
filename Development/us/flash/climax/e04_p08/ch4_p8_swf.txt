@@ -1,0 +1,6067 @@
+//***********************************************
+//	SWFファイルヘッダー
+//***********************************************
+シグネチャ[ CWS ]
+Version[ 7 ]
+FileSize[ 123090 bytes ]
+RECT Nbits = [ 15 ]
+(0, 0)[480 x 272]
+FrameRate[ 60.00000 ]
+Frame[ 107 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FileAttributes ](ID = [ 69 ])
+タグの長さ[ 4 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ Metadata ](ID = [ 77 ])
+タグの長さ[ 1278 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ SetBackgroundColor ](ID = [ 9 ])
+タグの長さ[ 3 ]
+RGB = [ R: 51 G: 51 B: 51 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsJPEG3 ](ID = [ 35 ])
+タグの長さ[ 5694 ]
+JPEG CharId[ 1 ] size[ 110 * 110 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 2476 ]
+BMP CharId[ 2 ] format[ 3 ] size[ 144 * 43 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsJPEG3 ](ID = [ 35 ])
+タグの長さ[ 18866 ]
+JPEG CharId[ 3 ] size[ 190 * 233 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 4055 ]
+BMP CharId[ 4 ] format[ 5 ] size[ 100 * 70 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsJPEG3 ](ID = [ 35 ])
+タグの長さ[ 11626 ]
+JPEG CharId[ 5 ] size[ 154 * 143 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 6380 ]
+BMP CharId[ 6 ] format[ 5 ] size[ 119 * 86 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 6954 ]
+BMP CharId[ 7 ] format[ 5 ] size[ 119 * 86 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsJPEG3 ](ID = [ 35 ])
+タグの長さ[ 7983 ]
+JPEG CharId[ 8 ] size[ 108 * 149 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 1486 ]
+BMP CharId[ 9 ] format[ 5 ] size[ 36 * 62 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 762 ]
+BMP CharId[ 10 ] format[ 5 ] size[ 36 * 62 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 1361 ]
+BMP CharId[ 11 ] format[ 5 ] size[ 36 * 62 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 626 ]
+BMP CharId[ 12 ] format[ 5 ] size[ 36 * 62 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 719 ]
+BMP CharId[ 13 ] format[ 5 ] size[ 36 * 62 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 1577 ]
+BMP CharId[ 14 ] format[ 5 ] size[ 36 * 68 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsJPEG3 ](ID = [ 35 ])
+タグの長さ[ 9846 ]
+JPEG CharId[ 15 ] size[ 132 * 205 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ JPEGTables ](ID = [ 8 ])
+タグの長さ[ 574 ]
+JPEG size[ 0 * 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBits ](ID = [ 6 ])
+タグの長さ[ 3989 ]
+JPEG CharId[ 16 ] size[ 124 * 134 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 2555 ]
+BMP CharId[ 17 ] format[ 3 ] size[ 162 * 116 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 3749 ]
+BMP CharId[ 18 ] format[ 5 ] size[ 85 * 66 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless ](ID = [ 20 ])
+タグの長さ[ 66 ]
+BMP CharId[ 19 ] format[ 3 ] size[ 163 * 48 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBits ](ID = [ 6 ])
+タグの長さ[ 5109 ]
+JPEG CharId[ 20 ] size[ 160 * 223 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless ](ID = [ 20 ])
+タグの長さ[ 1476 ]
+BMP CharId[ 21 ] format[ 3 ] size[ 145 * 130 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBits ](ID = [ 6 ])
+タグの長さ[ 4428 ]
+JPEG CharId[ 22 ] size[ 142 * 127 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless ](ID = [ 20 ])
+タグの長さ[ 179 ]
+BMP CharId[ 23 ] format[ 3 ] size[ 142 * 127 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsJPEG3 ](ID = [ 35 ])
+タグの長さ[ 4912 ]
+JPEG CharId[ 24 ] size[ 170 * 209 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsJPEG3 ](ID = [ 35 ])
+タグの長さ[ 6460 ]
+JPEG CharId[ 25 ] size[ 168 * 137 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless2 ](ID = [ 36 ])
+タグの長さ[ 2123 ]
+BMP CharId[ 26 ] format[ 3 ] size[ 480 * 272 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineBitsLossless ](ID = [ 20 ])
+タグの長さ[ 20 ]
+BMP CharId[ 27 ] format[ 3 ] size[ 8 * 8 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape2 ](ID = [ 22 ])
+タグの長さ[ 1228 ]
+ShapeId[ 28 ]
+Nbits = [ 16 ]
+(479, 271)[480 x 272]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 27 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 7 + 2 ]
+0:Horizontal lines
+line to[ X: 487 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 7 + 2 ]
+1:Vertical lines
+line to[ X: 487 pixel Y: 279 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 7 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 279 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 7 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 26 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:16 DeltaX: 959 pixel DeltaY: 543 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 13 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 543 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 13 + 2 ]
+0:Horizontal lines
+line to[ X: 959 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 959 pixel Y: 543 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 647 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 647 pixel Y: 408 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 408 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 647 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 24 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 649 pixel DeltaY: 480 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 480 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 649 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 649 pixel Y: 480 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 23 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 621 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 621 pixel Y: 398 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 398 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 621 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 22 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 621 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 621 pixel Y: 398 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 398 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 621 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 21 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 624 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 624 pixel Y: 401 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 401 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 624 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 20 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 638 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 638 pixel Y: 494 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 494 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 638 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 19 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 642 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+1:Vertical lines
+line to[ X: 642 pixel Y: 319 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 319 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 18 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+0:Horizontal lines
+line to[ X: 564 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 564 pixel Y: 337 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 337 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 641 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 641 pixel Y: 387 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 387 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 16 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 603 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 603 pixel Y: 405 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 405 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 603 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 15 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 611 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 611 pixel Y: 476 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 476 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 611 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 14 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 515 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 515 pixel Y: 339 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 339 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 13 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 515 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 515 pixel Y: 333 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 333 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 12 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 515 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 515 pixel Y: 333 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 333 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 11 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 515 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 515 pixel Y: 333 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 333 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 515 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 515 pixel Y: 333 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 333 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 9 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 515 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 515 pixel Y: 333 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 333 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 8 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 587 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 587 pixel Y: 420 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 420 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 587 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 7 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 598 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 598 pixel Y: 357 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 357 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 6 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 598 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 598 pixel Y: 357 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 357 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 5 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 633 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 633 pixel Y: 414 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 414 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 633 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+0:Horizontal lines
+line to[ X: 579 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 579 pixel Y: 341 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 341 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 3 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 669 pixel DeltaY: 504 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 504 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 669 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 669 pixel Y: 504 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 2 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 623 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+1:Vertical lines
+line to[ X: 623 pixel Y: 314 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 314 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル０チェンジ
+フィルスタイル１チェンジ
+ラインスタイルチェンジ
+Newスタイルあり
+Move[ Bits:1 DeltaX:   0 pixel DeltaY:   0 pixel ]
+FillStyle0[ 0 ]
+FillStyle1[ 0 ]
+LineStyle[ 0 ]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 2 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 65535 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 1 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T:15 ]
+[  1310720 |        0 |     9599 ]
+[        0 |  1310720 |     5439 ]
+[ 20.000000 | 0.000000 | 479.950000 ]
+[ 0.000000 | 20.000000 | 271.950000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NewBits[ Fill:2 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 479 pixel DeltaY: 271 pixel ]
+FillStyle1[ 2 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 589 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 589 pixel Y: 381 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 479 pixel Y: 381 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 479 pixel Y: 271 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 6 ]
+PlaceFlag[ 0x06 ] depth[ 27 ]
+charId[ 28 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T: 0 ]
+[    65536 |        0 |        0 ]
+[        0 |    65536 |        0 ]
+[ 1.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 1.000000 | 0.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ RemoveObject2 ](ID = [ 28 ])
+タグの長さ[ 2 ]
+depth[ 27 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DoAction ](ID = [ 12 ])
+タグの長さ[ 2 ]
+<<<<<<<<<<<<<<<<<<<< ACTION >>>>>>>>>>>>>>>>>>>>
+Action[ ActionStop : 0 bytes ]
+Action[ ActionEnd : 0 bytes ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 8 ]
+FrameLabel[ fl_stop ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 8 ]
+FrameLabel[ fl_in_1 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 32 ]
+ShapeId[ 29 ]
+Nbits = [ 9 ]
+(0, 0)[8 x 8]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 27 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+フィルスタイル１チェンジ
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 7 + 2 ]
+0:Horizontal lines
+line to[ X:   8 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 7 + 2 ]
+1:Vertical lines
+line to[ X:   8 pixel Y:   8 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 7 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:   8 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 7 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineSprite ](ID = [ 39 ])
+タグの長さ[ 23 ]
+SpriteId[ 30 ] FrameCount[ 1 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 13 ]
+	PlaceFlag[ 0x06 ] depth[ 1 ]
+	charId[ 29 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S:23 R: 0 T: 0 ]
+	[  3932160 |        0 |        0 ]
+	[        0 |  2228224 |        0 ]
+	[ 60.000000 | 0.000000 | 0.000000 ]
+	[ 0.000000 | 34.000000 | 0.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ End ](ID = [ 0 ])
+	タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 38 ]
+PlaceFlag[ 0x36 ] depth[ 1 ]
+charId[ 30 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:16 T:14 ]
+[    59280 |    27718 |     6328 ]
+[   -27718 |    59280 |    -8010 ]
+[ 0.904541 | 0.422943 | 316.400000 ]
+[ -0.422943 | 0.904541 | -400.500000 ]
+比率[ 2 ]
+CharName[ ins_bg_black_000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 36 ]
+ShapeId[ 31 ]
+Nbits = [ 13 ]
+(0, 0)[142 x 127]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 23 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+フィルスタイル１チェンジ
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 142 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 142 pixel Y: 127 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 127 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 20 ]
+PlaceFlag[ 0x06 ] depth[ 18 ]
+charId[ 31 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:16 T:15 ]
+[    58973 |    28298 |     8290 ]
+[   -28298 |    58973 |    -3986 ]
+[ 0.899857 | 0.431793 | 414.500000 ]
+[ -0.431793 | 0.899857 | -199.300000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 36 ]
+ShapeId[ 32 ]
+Nbits = [ 13 ]
+(0, 0)[110 x 110]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 1 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+フィルスタイル１チェンジ
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 110 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 110 pixel Y: 110 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 110 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineSprite ](ID = [ 39 ])
+タグの長さ[ 16 ]
+SpriteId[ 33 ] FrameCount[ 1 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x06 ] depth[ 1 ]
+	charId[ 32 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 0 ]
+	[    65536 |        0 |        0 ]
+	[        0 |    65536 |        0 ]
+	[ 1.000000 | 0.000000 | 0.000000 ]
+	[ 0.000000 | 1.000000 | 0.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ End ](ID = [ 0 ])
+	タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 39 ]
+PlaceFlag[ 0x36 ] depth[ 19 ]
+charId[ 33 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:16 T:15 ]
+[    47581 |    21698 |     8547 ]
+[   -21698 |    47581 |    -3286 ]
+[ 0.726028 | 0.331085 | 427.350000 ]
+[ -0.331085 | 0.726028 | -164.300000 ]
+比率[ 2 ]
+CharName[ ins_ch4_koma_006 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 42 ]
+ShapeId[ 34 ]
+Nbits = [ 15 ]
+(0, 0)[480 x 272]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 26 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:15 DeltaX: 480 pixel DeltaY: 272 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 13 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 272 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 13 + 2 ]
+0:Horizontal lines
+line to[ X: 480 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 480 pixel Y: 272 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 19 ]
+PlaceFlag[ 0x06 ] depth[ 30 ]
+charId[ 34 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:16 T:14 ]
+[    59306 |    27697 |     6299 ]
+[   -27697 |    59306 |    -8000 ]
+[ 0.904938 | 0.422623 | 314.950000 ]
+[ -0.422623 | 0.904938 | -400.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 1 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:16 T:14 ]
+[    61431 |    22400 |     5006 ]
+[   -22400 |    61431 |    -6462 ]
+[ 0.937363 | 0.341797 | 250.300000 ]
+[ -0.341797 | 0.937363 | -323.100000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 18 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:16 T:14 ]
+[    61216 |    22918 |     7312 ]
+[   -22918 |    61216 |    -2649 ]
+[ 0.934082 | 0.349701 | 365.600000 ]
+[ -0.349701 | 0.934082 | -132.450000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 19 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:16 T:14 ]
+[    49255 |    17490 |     7632 ]
+[   -17490 |    49255 |    -1992 ]
+[ 0.751572 | 0.266876 | 381.600000 ]
+[ -0.266876 | 0.751572 | -99.600000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 30 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:16 T:14 ]
+[    61446 |    22401 |     4984 ]
+[   -22401 |    61446 |    -6455 ]
+[ 0.937592 | 0.341812 | 249.200000 ]
+[ -0.341812 | 0.937592 | -322.750000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 1 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:16 T:14 ]
+[    63187 |    16957 |     3708 ]
+[   -16957 |    63187 |    -4888 ]
+[ 0.964157 | 0.258743 | 185.400000 ]
+[ -0.258743 | 0.964157 | -244.400000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 18 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:16 T:14 ]
+[    63088 |    17255 |     6339 ]
+[   -17255 |    63088 |    -1298 ]
+[ 0.962646 | 0.263290 | 316.950000 ]
+[ -0.263290 | 0.962646 | -64.900000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 19 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:15 T:14 ]
+[    50625 |    13154 |     6718 ]
+[   -13154 |    50625 |     -688 ]
+[ 0.772476 | 0.200714 | 335.900000 ]
+[ -0.200714 | 0.772476 | -34.400000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 30 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:16 T:14 ]
+[    63197 |    16956 |     3691 ]
+[   -16956 |    63197 |    -4882 ]
+[ 0.964310 | 0.258728 | 184.550000 ]
+[ -0.258728 | 0.964310 | -244.100000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 1 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:15 T:13 ]
+[    64463 |    11381 |     2439 ]
+[   -11381 |    64463 |    -3284 ]
+[ 0.983627 | 0.173660 | 121.950000 ]
+[ -0.173660 | 0.983627 | -164.200000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 18 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:15 T:14 ]
+[    64401 |    11654 |     5378 ]
+[   -11654 |    64401 |       62 ]
+[ 0.982681 | 0.177826 | 268.900000 ]
+[ -0.177826 | 0.982681 | 3.100000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 19 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:15 T:14 ]
+[    51586 |     8883 |     5815 ]
+[    -8883 |    51586 |      619 ]
+[ 0.787140 | 0.135544 | 290.750000 ]
+[ -0.135544 | 0.787140 | 30.950000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 30 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:15 T:13 ]
+[    64470 |    11379 |     2427 ]
+[   -11379 |    64470 |    -3282 ]
+[ 0.983734 | 0.173630 | 121.350000 ]
+[ -0.173630 | 0.983734 | -164.100000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 16 ]
+PlaceFlag[ 0x05 ] depth[ 1 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:14 T:12 ]
+[    65247 |     5713 |     1202 ]
+[    -5713 |    65247 |    -1655 ]
+[ 0.995590 | 0.087173 | 60.100000 ]
+[ -0.087173 | 0.995590 | -82.750000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 18 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:14 T:14 ]
+[    65237 |     5745 |     4422 ]
+[    -5745 |    65237 |     1437 ]
+[ 0.995438 | 0.087662 | 221.100000 ]
+[ -0.087662 | 0.995438 | 71.850000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 19 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:14 T:14 ]
+[    52203 |     4374 |     4913 ]
+[    -4374 |    52203 |     1937 ]
+[ 0.796555 | 0.066742 | 245.650000 ]
+[ -0.066742 | 0.796555 | 96.850000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 16 ]
+PlaceFlag[ 0x05 ] depth[ 30 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:14 T:12 ]
+[    65250 |     5712 |     1197 ]
+[    -5712 |    65250 |    -1653 ]
+[ 0.995636 | 0.087158 | 59.850000 ]
+[ -0.087158 | 0.995636 | -82.650000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DoAction ](ID = [ 12 ])
+タグの長さ[ 2 ]
+<<<<<<<<<<<<<<<<<<<< ACTION >>>>>>>>>>>>>>>>>>>>
+Action[ ActionStop : 0 bytes ]
+Action[ ActionEnd : 0 bytes ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 10 ]
+FrameLabel[ fl_wait_1 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 4 ]
+PlaceFlag[ 0x05 ] depth[ 1 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T: 0 ]
+[    65536 |        0 |        0 ]
+[        0 |    65536 |        0 ]
+[ 1.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 1.000000 | 0.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 18 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     3480 ]
+[        0 |    65536 |     2820 ]
+[ 1.000000 | 0.000000 | 174.000000 ]
+[ 0.000000 | 1.000000 | 141.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 12 ]
+PlaceFlag[ 0x05 ] depth[ 19 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R: 0 T:13 ]
+[    52428 |        0 |     4020 ]
+[        0 |    52428 |     3260 ]
+[ 0.799988 | 0.000000 | 201.000000 ]
+[ 0.000000 | 0.799988 | 163.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 4 ]
+PlaceFlag[ 0x05 ] depth[ 30 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T: 0 ]
+[    65536 |        0 |        0 ]
+[        0 |    65536 |        0 ]
+[ 1.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 1.000000 | 0.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 8 ]
+FrameLabel[ fl_in_2 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 39 ]
+ShapeId[ 35 ]
+Nbits = [ 13 ]
+(0, 0)[163 x 48]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 19 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:13 DeltaX: 163 pixel DeltaY:  48 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  48 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 163 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+1:Vertical lines
+line to[ X: 163 pixel Y:  48 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 8 ]
+charId[ 35 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     6357 ]
+[        0 |    65536 |      -40 ]
+[ 1.000000 | 0.000000 | 317.850000 ]
+[ 0.000000 | 1.000000 | -2.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 39 ]
+ShapeId[ 36 ]
+Nbits = [ 13 ]
+(0, 0)[144 x 43]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 2 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:13 DeltaX: 144 pixel DeltaY:  43 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  43 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 144 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+1:Vertical lines
+line to[ X: 144 pixel Y:  43 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 11 ]
+charId[ 36 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     6513 ]
+[        0 |    65536 |     -800 ]
+[ 1.000000 | 0.000000 | 325.650000 ]
+[ 0.000000 | 1.000000 | -40.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 11 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     6513 ]
+[        0 |    65536 |     -580 ]
+[ 1.000000 | 0.000000 | 325.650000 ]
+[ 0.000000 | 1.000000 | -29.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 11 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     6513 ]
+[        0 |    65536 |     -360 ]
+[ 1.000000 | 0.000000 | 325.650000 ]
+[ 0.000000 | 1.000000 | -18.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 11 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     6513 ]
+[        0 |    65536 |     -140 ]
+[ 1.000000 | 0.000000 | 325.650000 ]
+[ 0.000000 | 1.000000 | -7.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DoAction ](ID = [ 12 ])
+タグの長さ[ 2 ]
+<<<<<<<<<<<<<<<<<<<< ACTION >>>>>>>>>>>>>>>>>>>>
+Action[ ActionStop : 0 bytes ]
+Action[ ActionEnd : 0 bytes ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 10 ]
+FrameLabel[ fl_wait_2 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 11 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     6513 ]
+[        0 |    65536 |       80 ]
+[ 1.000000 | 0.000000 | 325.650000 ]
+[ 0.000000 | 1.000000 | 4.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DoAction ](ID = [ 12 ])
+タグの長さ[ 11 ]
+<<<<<<<<<<<<<<<<<<<< ACTION >>>>>>>>>>>>>>>>>>>>
+Action[ ActionGetURL : 7 bytes ]
+URL[ se ]
+LABEL[ 028 ]
+Action[ ActionEnd : 0 bytes ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 8 ]
+FrameLabel[ fl_in_3 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 40 ]
+ShapeId[ 37 ]
+Nbits = [ 14 ]
+(0, 0)[159 x 223]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 20 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:13 DeltaX: 159 pixel DeltaY:   0 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 159 pixel Y: 223 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 223 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 159 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 7 ]
+charId[ 37 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     6340 ]
+[        0 |    65536 |      980 ]
+[ 1.000000 | 0.000000 | 317.000000 ]
+[ 0.000000 | 1.000000 | 49.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 36 ]
+ShapeId[ 38 ]
+Nbits = [ 14 ]
+(0, 0)[190 x 233]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 3 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+フィルスタイル１チェンジ
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 190 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 190 pixel Y: 233 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 233 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 19 ]
+PlaceFlag[ 0x06 ] depth[ 10 ]
+charId[ 38 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:15 T:14 ]
+[    63864 |    14500 |     7049 ]
+[   -14500 |    63864 |      774 ]
+[ 0.974487 | 0.221252 | 352.450000 ]
+[ -0.221252 | 0.974487 | 38.700000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:15 T:14 ]
+[    64128 |    13094 |     6947 ]
+[   -13094 |    64128 |      825 ]
+[ 0.978516 | 0.199799 | 347.350000 ]
+[ -0.199799 | 0.978516 | 41.250000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:15 T:14 ]
+[    64402 |    11715 |     6846 ]
+[   -11715 |    64402 |      877 ]
+[ 0.982697 | 0.178757 | 342.300000 ]
+[ -0.178757 | 0.982697 | 43.850000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:15 T:14 ]
+[    64613 |    10544 |     6759 ]
+[   -10544 |    64613 |      921 ]
+[ 0.985916 | 0.160889 | 337.950000 ]
+[ -0.160889 | 0.985916 | 46.050000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:15 T:14 ]
+[    64833 |     9156 |     6661 ]
+[    -9156 |    64833 |      974 ]
+[ 0.989273 | 0.139709 | 333.050000 ]
+[ -0.139709 | 0.989273 | 48.700000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:14 T:14 ]
+[    65022 |     7765 |     6562 ]
+[    -7765 |    65022 |     1030 ]
+[ 0.992157 | 0.118484 | 328.100000 ]
+[ -0.118484 | 0.992157 | 51.500000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 38 ]
+ShapeId[ 39 ]
+Nbits = [ 12 ]
+(0, 0)[100 x 70]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:12 DeltaX: 100 pixel DeltaY:  70 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  70 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+0:Horizontal lines
+line to[ X: 100 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 100 pixel Y:  70 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 9 ]
+charId[ 39 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     6440 ]
+[        0 |    65536 |      980 ]
+[ 1.000000 | 0.000000 | 322.000000 ]
+[ 0.000000 | 1.000000 | 49.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:14 T:14 ]
+[    65160 |     6582 |     6479 ]
+[    -6582 |    65160 |     1080 ]
+[ 0.994263 | 0.100433 | 323.950000 ]
+[ -0.100433 | 0.994263 | 54.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:14 T:14 ]
+[    65294 |     5183 |     6384 ]
+[    -5183 |    65294 |     1141 ]
+[ 0.996307 | 0.079086 | 319.200000 ]
+[ -0.079086 | 0.996307 | 57.050000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:13 T:14 ]
+[    65399 |     3783 |     6289 ]
+[    -3783 |    65399 |     1202 ]
+[ 0.997910 | 0.057724 | 314.450000 ]
+[ -0.057724 | 0.997910 | 60.100000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 17 ]
+PlaceFlag[ 0x05 ] depth[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:13 T:14 ]
+[    65466 |     2594 |     6208 ]
+[    -2594 |    65466 |     1255 ]
+[ 0.998932 | 0.039581 | 310.400000 ]
+[ -0.039581 | 0.998932 | 62.750000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 16 ]
+PlaceFlag[ 0x05 ] depth[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:17 R:12 T:14 ]
+[    65516 |     1190 |     6117 ]
+[    -1190 |    65516 |     1323 ]
+[ 0.999695 | 0.018158 | 305.850000 ]
+[ -0.018158 | 0.999695 | 66.150000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DoAction ](ID = [ 12 ])
+タグの長さ[ 2 ]
+<<<<<<<<<<<<<<<<<<<< ACTION >>>>>>>>>>>>>>>>>>>>
+Action[ ActionStop : 0 bytes ]
+Action[ ActionEnd : 0 bytes ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 10 ]
+FrameLabel[ fl_wait_3 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     6040 ]
+[        0 |    65536 |     1380 ]
+[ 1.000000 | 0.000000 | 302.000000 ]
+[ 0.000000 | 1.000000 | 69.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 8 ]
+FrameLabel[ fl_in_4 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 36 ]
+ShapeId[ 40 ]
+Nbits = [ 13 ]
+(0, 0)[145 x 130]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 21 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+フィルスタイル１チェンジ
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 145 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 145 pixel Y: 130 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 130 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 12 ]
+charId[ 40 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     3480 ]
+[        0 |    65536 |       60 ]
+[ 1.000000 | 0.000000 | 174.000000 ]
+[ 0.000000 | 1.000000 | 3.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 36 ]
+ShapeId[ 41 ]
+Nbits = [ 13 ]
+(0, 0)[154 x 143]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 5 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+フィルスタイル１チェンジ
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 154 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 154 pixel Y: 143 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 143 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 13 ]
+charId[ 41 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     3400 ]
+[        0 |    65536 |        0 ]
+[ 1.000000 | 0.000000 | 170.000000 ]
+[ 0.000000 | 1.000000 | 0.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 39 ]
+ShapeId[ 42 ]
+Nbits = [ 13 ]
+(0, 0)[119 x 86]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 6 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:13 DeltaX: 119 pixel DeltaY:  86 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  86 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 119 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 119 pixel Y:  86 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 15 ]
+charId[ 42 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     3400 ]
+[        0 |    65536 |     -140 ]
+[ 1.000000 | 0.000000 | 170.000000 ]
+[ 0.000000 | 1.000000 | -7.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DoAction ](ID = [ 12 ])
+タグの長さ[ 2 ]
+<<<<<<<<<<<<<<<<<<<< ACTION >>>>>>>>>>>>>>>>>>>>
+Action[ ActionStop : 0 bytes ]
+Action[ ActionEnd : 0 bytes ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 10 ]
+FrameLabel[ fl_wait_4 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 39 ]
+ShapeId[ 43 ]
+Nbits = [ 13 ]
+(0, 0)[119 x 86]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 7 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:13 DeltaX: 119 pixel DeltaY:  86 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  86 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 119 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X: 119 pixel Y:  86 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 14 ]
+charId[ 43 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     4100 ]
+[        0 |    65536 |      -80 ]
+[ 1.000000 | 0.000000 | 205.000000 ]
+[ 0.000000 | 1.000000 | -4.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 8 ]
+FrameLabel[ fl_in_5 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 36 ]
+ShapeId[ 44 ]
+Nbits = [ 13 ]
+(0, 0)[142 x 127]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 22 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+フィルスタイル１チェンジ
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 142 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 142 pixel Y: 127 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 127 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 16 ]
+charId[ 44 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     3480 ]
+[        0 |    65536 |     2820 ]
+[ 1.000000 | 0.000000 | 174.000000 ]
+[ 0.000000 | 1.000000 | 141.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 36 ]
+ShapeId[ 45 ]
+Nbits = [ 13 ]
+(0, 0)[108 x 149]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 8 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+フィルスタイル１チェンジ
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 108 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 108 pixel Y: 149 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 149 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 17 ]
+charId[ 45 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3300 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 165.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 18 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  192:0.750000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 19 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  192:0.750000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 18 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  128:0.500000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 19 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  128:0.500000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 18 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:   64:0.250000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 19 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:   64:0.250000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DoAction ](ID = [ 12 ])
+タグの長さ[ 11 ]
+<<<<<<<<<<<<<<<<<<<< ACTION >>>>>>>>>>>>>>>>>>>>
+Action[ ActionGetURL : 7 bytes ]
+URL[ se ]
+LABEL[ 027 ]
+Action[ ActionEnd : 0 bytes ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 18 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:    0:0.000000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 19 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:    0:0.000000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ RemoveObject2 ](ID = [ 28 ])
+タグの長さ[ 2 ]
+depth[ 18 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ RemoveObject2 ](ID = [ 28 ])
+タグの長さ[ 2 ]
+depth[ 19 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 37 ]
+ShapeId[ 46 ]
+Nbits = [ 12 ]
+(0, 0)[36 x 68]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 14 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:11 DeltaX:  36 pixel DeltaY:   0 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:  36 pixel Y:  68 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  68 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:  36 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineSprite ](ID = [ 39 ])
+タグの長さ[ 34 ]
+SpriteId[ 47 ] FrameCount[ 6 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x06 ] depth[ 1 ]
+	charId[ 46 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 0 ]
+	[    65536 |        0 |        0 ]
+	[        0 |    65536 |        0 ]
+	[ 1.000000 | 0.000000 | 0.000000 ]
+	[ 0.000000 | 1.000000 | 0.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x05 ] depth[ 1 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 7 ]
+	[    65536 |        0 |      -40 ]
+	[        0 |    65536 |      -40 ]
+	[ 1.000000 | 0.000000 | -2.000000 ]
+	[ 0.000000 | 1.000000 | -2.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ End ](ID = [ 0 ])
+	タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 29 ]
+PlaceFlag[ 0x36 ] depth[ 28 ]
+charId[ 47 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     3360 ]
+[        0 |    65536 |     3000 ]
+[ 1.000000 | 0.000000 | 168.000000 ]
+[ 0.000000 | 1.000000 | 150.000000 ]
+比率[ 45 ]
+CharName[ ins_ch4_p8_7_005 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3288 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 164.400000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3277 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 163.850000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3265 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 163.250000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3253 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 162.650000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 37 ]
+ShapeId[ 48 ]
+Nbits = [ 12 ]
+(0, 0)[36 x 62]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 13 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:11 DeltaX:  36 pixel DeltaY:   0 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:  36 pixel Y:  62 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  62 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:  36 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineSprite ](ID = [ 39 ])
+タグの長さ[ 34 ]
+SpriteId[ 49 ] FrameCount[ 6 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x06 ] depth[ 1 ]
+	charId[ 48 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 0 ]
+	[    65536 |        0 |        0 ]
+	[        0 |    65536 |        0 ]
+	[ 1.000000 | 0.000000 | 0.000000 ]
+	[ 0.000000 | 1.000000 | 0.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x05 ] depth[ 1 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 7 ]
+	[    65536 |        0 |       20 ]
+	[        0 |    65536 |      -40 ]
+	[ 1.000000 | 0.000000 | 1.000000 ]
+	[ 0.000000 | 1.000000 | -2.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ End ](ID = [ 0 ])
+	タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 29 ]
+PlaceFlag[ 0x36 ] depth[ 26 ]
+charId[ 49 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     3760 ]
+[        0 |    65536 |     2980 ]
+[ 1.000000 | 0.000000 | 188.000000 ]
+[ 0.000000 | 1.000000 | 149.000000 ]
+比率[ 49 ]
+CharName[ ins_ch4_p8_7_004 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3242 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 162.100000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3230 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 161.500000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3218 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 160.900000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3207 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 160.350000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 37 ]
+ShapeId[ 50 ]
+Nbits = [ 12 ]
+(0, 0)[36 x 62]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 12 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:11 DeltaX:  36 pixel DeltaY:   0 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:  36 pixel Y:  62 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  62 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:  36 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineSprite ](ID = [ 39 ])
+タグの長さ[ 34 ]
+SpriteId[ 51 ] FrameCount[ 6 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x06 ] depth[ 1 ]
+	charId[ 50 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 0 ]
+	[    65536 |        0 |        0 ]
+	[        0 |    65536 |        0 ]
+	[ 1.000000 | 0.000000 | 0.000000 ]
+	[ 0.000000 | 1.000000 | 0.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x05 ] depth[ 1 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 7 ]
+	[    65536 |        0 |      -40 ]
+	[        0 |    65536 |      -40 ]
+	[ 1.000000 | 0.000000 | -2.000000 ]
+	[ 0.000000 | 1.000000 | -2.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ End ](ID = [ 0 ])
+	タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 29 ]
+PlaceFlag[ 0x36 ] depth[ 24 ]
+charId[ 51 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     4100 ]
+[        0 |    65536 |     3040 ]
+[ 1.000000 | 0.000000 | 205.000000 ]
+[ 0.000000 | 1.000000 | 152.000000 ]
+比率[ 53 ]
+CharName[ ins_ch4_p8_7_003 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3195 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 159.750000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3183 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 159.150000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3172 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 158.600000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3160 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 158.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 37 ]
+ShapeId[ 52 ]
+Nbits = [ 12 ]
+(0, 0)[36 x 62]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 11 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:11 DeltaX:  36 pixel DeltaY:   0 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:  36 pixel Y:  62 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  62 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:  36 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineSprite ](ID = [ 39 ])
+タグの長さ[ 34 ]
+SpriteId[ 53 ] FrameCount[ 6 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x06 ] depth[ 1 ]
+	charId[ 52 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 0 ]
+	[    65536 |        0 |        0 ]
+	[        0 |    65536 |        0 ]
+	[ 1.000000 | 0.000000 | 0.000000 ]
+	[ 0.000000 | 1.000000 | 0.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x05 ] depth[ 1 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 7 ]
+	[    65536 |        0 |       40 ]
+	[        0 |    65536 |       40 ]
+	[ 1.000000 | 0.000000 | 2.000000 ]
+	[ 0.000000 | 1.000000 | 2.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ End ](ID = [ 0 ])
+	タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 29 ]
+PlaceFlag[ 0x36 ] depth[ 22 ]
+charId[ 53 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     4920 ]
+[        0 |    65536 |     2580 ]
+[ 1.000000 | 0.000000 | 246.000000 ]
+[ 0.000000 | 1.000000 | 129.000000 ]
+比率[ 57 ]
+CharName[ ins_ch4_p8_7_002 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3148 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 157.400000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3137 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 156.850000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3125 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 156.250000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3113 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 155.650000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 37 ]
+ShapeId[ 54 ]
+Nbits = [ 12 ]
+(0, 0)[36 x 62]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 10 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:11 DeltaX:  36 pixel DeltaY:   0 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:  36 pixel Y:  62 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  62 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:  36 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineSprite ](ID = [ 39 ])
+タグの長さ[ 34 ]
+SpriteId[ 55 ] FrameCount[ 6 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x06 ] depth[ 1 ]
+	charId[ 54 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 0 ]
+	[    65536 |        0 |        0 ]
+	[        0 |    65536 |        0 ]
+	[ 1.000000 | 0.000000 | 0.000000 ]
+	[ 0.000000 | 1.000000 | 0.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x05 ] depth[ 1 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 7 ]
+	[    65536 |        0 |       20 ]
+	[        0 |    65536 |      -40 ]
+	[ 1.000000 | 0.000000 | 1.000000 ]
+	[ 0.000000 | 1.000000 | -2.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ End ](ID = [ 0 ])
+	タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 29 ]
+PlaceFlag[ 0x36 ] depth[ 20 ]
+charId[ 55 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     5240 ]
+[        0 |    65536 |     2967 ]
+[ 1.000000 | 0.000000 | 262.000000 ]
+[ 0.000000 | 1.000000 | 148.350000 ]
+比率[ 61 ]
+CharName[ ins_ch4_p8_7_001 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3102 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 155.100000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3090 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 154.500000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3078 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 153.900000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3067 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 153.350000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 37 ]
+ShapeId[ 56 ]
+Nbits = [ 12 ]
+(0, 0)[36 x 62]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 9 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:11 DeltaX:  36 pixel DeltaY:   0 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:  36 pixel Y:  62 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  62 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 9 + 2 ]
+0:Horizontal lines
+line to[ X:  36 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineSprite ](ID = [ 39 ])
+タグの長さ[ 34 ]
+SpriteId[ 57 ] FrameCount[ 6 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x06 ] depth[ 1 ]
+	charId[ 56 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 0 ]
+	[    65536 |        0 |        0 ]
+	[        0 |    65536 |        0 ]
+	[ 1.000000 | 0.000000 | 0.000000 ]
+	[ 0.000000 | 1.000000 | 0.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x05 ] depth[ 1 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 7 ]
+	[    65536 |        0 |       40 ]
+	[        0 |    65536 |       40 ]
+	[ 1.000000 | 0.000000 | 2.000000 ]
+	[ 0.000000 | 1.000000 | 2.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ End ](ID = [ 0 ])
+	タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 29 ]
+PlaceFlag[ 0x36 ] depth[ 18 ]
+charId[ 57 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     5720 ]
+[        0 |    65536 |     2900 ]
+[ 1.000000 | 0.000000 | 286.000000 ]
+[ 0.000000 | 1.000000 | 145.000000 ]
+比率[ 65 ]
+CharName[ ins_ch4_p8_7_000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3055 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 152.750000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3043 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 152.150000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3032 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 151.600000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DoAction ](ID = [ 12 ])
+タグの長さ[ 2 ]
+<<<<<<<<<<<<<<<<<<<< ACTION >>>>>>>>>>>>>>>>>>>>
+Action[ ActionStop : 0 bytes ]
+Action[ ActionEnd : 0 bytes ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 10 ]
+FrameLabel[ fl_wait_5 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     4020 ]
+[        0 |    65536 |     3020 ]
+[ 1.000000 | 0.000000 | 201.000000 ]
+[ 0.000000 | 1.000000 | 151.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ RemoveObject2 ](ID = [ 28 ])
+タグの長さ[ 2 ]
+depth[ 18 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ RemoveObject2 ](ID = [ 28 ])
+タグの長さ[ 2 ]
+depth[ 20 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ RemoveObject2 ](ID = [ 28 ])
+タグの長さ[ 2 ]
+depth[ 22 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ RemoveObject2 ](ID = [ 28 ])
+タグの長さ[ 2 ]
+depth[ 24 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ RemoveObject2 ](ID = [ 28 ])
+タグの長さ[ 2 ]
+depth[ 26 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ RemoveObject2 ](ID = [ 28 ])
+タグの長さ[ 2 ]
+depth[ 28 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 8 ]
+FrameLabel[ fl_in_6 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 36 ]
+ShapeId[ 58 ]
+Nbits = [ 14 ]
+(0, 0)[170 x 209]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 24 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+フィルスタイル１チェンジ
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 170 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 170 pixel Y: 209 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 209 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x06 ] depth[ 3 ]
+charId[ 58 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T: 8 ]
+[    65536 |        0 |      100 ]
+[        0 |    65536 |       60 ]
+[ 1.000000 | 0.000000 | 5.000000 ]
+[ 0.000000 | 1.000000 | 3.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 40 ]
+ShapeId[ 59 ]
+Nbits = [ 14 ]
+(0, 0)[132 x 205]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 15 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:13 DeltaX: 132 pixel DeltaY:   0 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X: 132 pixel Y: 205 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 205 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 12 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 132 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x06 ] depth[ 4 ]
+charId[ 59 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:12 ]
+[    65536 |        0 |     1100 ]
+[        0 |    65536 |      220 ]
+[ 1.000000 | 0.000000 | 55.000000 ]
+[ 0.000000 | 1.000000 | 11.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 36 ]
+ShapeId[ 60 ]
+Nbits = [ 13 ]
+(0, 0)[124 x 134]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 16 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+フィルスタイル１チェンジ
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 124 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 124 pixel Y: 134 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 134 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineSprite ](ID = [ 39 ])
+タグの長さ[ 16 ]
+SpriteId[ 61 ] FrameCount[ 1 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ PlaceObject2 ](ID = [ 26 ])
+	タグの長さ[ 6 ]
+	PlaceFlag[ 0x06 ] depth[ 1 ]
+	charId[ 60 ]
+	<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+	[ S: 0 R: 0 T: 0 ]
+	[    65536 |        0 |        0 ]
+	[        0 |    65536 |        0 ]
+	[ 1.000000 | 0.000000 | 0.000000 ]
+	[ 0.000000 | 1.000000 | 0.000000 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ ShowFrame ](ID = [ 1 ])
+	タグの長さ[ 0 ]
+	//***********************************************
+	//		タグヘッダー
+	//***********************************************
+	TagName[ End ](ID = [ 0 ])
+	タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 37 ]
+PlaceFlag[ 0x3e ] depth[ 5 ]
+charId[ 61 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T: 0 ]
+[    65536 |        0 |        0 ]
+[        0 |    65536 |        0 ]
+[ 1.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 1.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  118:0.460938  add:   0
+比率[ 70 ]
+CharName[ alpha_add_ch4_p8_9_000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 18 ]
+charId[ 56 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     5720 ]
+[        0 |    65536 |     2900 ]
+[ 1.000000 | 0.000000 | 286.000000 ]
+[ 0.000000 | 1.000000 | 145.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 19 ]
+charId[ 54 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     5240 ]
+[        0 |    65536 |     2967 ]
+[ 1.000000 | 0.000000 | 262.000000 ]
+[ 0.000000 | 1.000000 | 148.350000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 20 ]
+charId[ 52 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     4920 ]
+[        0 |    65536 |     2580 ]
+[ 1.000000 | 0.000000 | 246.000000 ]
+[ 0.000000 | 1.000000 | 129.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 21 ]
+charId[ 50 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:14 ]
+[    65536 |        0 |     4100 ]
+[        0 |    65536 |     3040 ]
+[ 1.000000 | 0.000000 | 205.000000 ]
+[ 0.000000 | 1.000000 | 152.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 22 ]
+charId[ 48 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     3760 ]
+[        0 |    65536 |     2980 ]
+[ 1.000000 | 0.000000 | 188.000000 ]
+[ 0.000000 | 1.000000 | 149.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 23 ]
+charId[ 46 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |     3360 ]
+[        0 |    65536 |     3000 ]
+[ 1.000000 | 0.000000 | 168.000000 ]
+[ 0.000000 | 1.000000 | 150.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:12 ]
+[    65536 |        0 |     1086 ]
+[        0 |    65536 |      216 ]
+[ 1.000000 | 0.000000 | 54.300000 ]
+[ 0.000000 | 1.000000 | 10.800000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  128:0.500000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:12 ]
+[    65536 |        0 |     1071 ]
+[        0 |    65536 |      211 ]
+[ 1.000000 | 0.000000 | 53.550000 ]
+[ 0.000000 | 1.000000 | 10.550000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  138:0.539063  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:12 ]
+[    65536 |        0 |     1057 ]
+[        0 |    65536 |      207 ]
+[ 1.000000 | 0.000000 | 52.850000 ]
+[ 0.000000 | 1.000000 | 10.350000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  148:0.578125  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:12 ]
+[    65536 |        0 |     1043 ]
+[        0 |    65536 |      203 ]
+[ 1.000000 | 0.000000 | 52.150000 ]
+[ 0.000000 | 1.000000 | 10.150000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  157:0.613281  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:12 ]
+[    65536 |        0 |     1029 ]
+[        0 |    65536 |      199 ]
+[ 1.000000 | 0.000000 | 51.450000 ]
+[ 0.000000 | 1.000000 | 9.950000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  167:0.652344  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:11 ]
+[    65536 |        0 |     1014 ]
+[        0 |    65536 |      194 ]
+[ 1.000000 | 0.000000 | 50.700000 ]
+[ 0.000000 | 1.000000 | 9.700000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  177:0.691406  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:11 ]
+[    65536 |        0 |     1000 ]
+[        0 |    65536 |      190 ]
+[ 1.000000 | 0.000000 | 50.000000 ]
+[ 0.000000 | 1.000000 | 9.500000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  187:0.730469  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:11 ]
+[    65536 |        0 |      986 ]
+[        0 |    65536 |      186 ]
+[ 1.000000 | 0.000000 | 49.300000 ]
+[ 0.000000 | 1.000000 | 9.300000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  197:0.769531  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:11 ]
+[    65536 |        0 |      971 ]
+[        0 |    65536 |      181 ]
+[ 1.000000 | 0.000000 | 48.550000 ]
+[ 0.000000 | 1.000000 | 9.050000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  207:0.808594  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:11 ]
+[    65536 |        0 |      957 ]
+[        0 |    65536 |      177 ]
+[ 1.000000 | 0.000000 | 47.850000 ]
+[ 0.000000 | 1.000000 | 8.850000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  217:0.847656  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:11 ]
+[    65536 |        0 |      943 ]
+[        0 |    65536 |      173 ]
+[ 1.000000 | 0.000000 | 47.150000 ]
+[ 0.000000 | 1.000000 | 8.650000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  226:0.882813  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:11 ]
+[    65536 |        0 |      929 ]
+[        0 |    65536 |      169 ]
+[ 1.000000 | 0.000000 | 46.450000 ]
+[ 0.000000 | 1.000000 | 8.450000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  236:0.921875  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:11 ]
+[    65536 |        0 |      914 ]
+[        0 |    65536 |      164 ]
+[ 1.000000 | 0.000000 | 45.700000 ]
+[ 0.000000 | 1.000000 | 8.200000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  246:0.960938  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DoAction ](ID = [ 12 ])
+タグの長さ[ 2 ]
+<<<<<<<<<<<<<<<<<<<< ACTION >>>>>>>>>>>>>>>>>>>>
+Action[ ActionStop : 0 bytes ]
+Action[ ActionEnd : 0 bytes ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 10 ]
+FrameLabel[ fl_wait_6 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 7 ]
+PlaceFlag[ 0x05 ] depth[ 4 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:11 ]
+[    65536 |        0 |      900 ]
+[        0 |    65536 |      160 ]
+[ 1.000000 | 0.000000 | 45.000000 ]
+[ 0.000000 | 1.000000 | 8.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 4 ]
+PlaceFlag[ 0x09 ] depth[ 5 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 1 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  256:1.000000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DoAction ](ID = [ 12 ])
+タグの長さ[ 11 ]
+<<<<<<<<<<<<<<<<<<<< ACTION >>>>>>>>>>>>>>>>>>>>
+Action[ ActionGetURL : 7 bytes ]
+URL[ se ]
+LABEL[ 160 ]
+Action[ ActionEnd : 0 bytes ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 8 ]
+FrameLabel[ fl_in_7 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 39 ]
+ShapeId[ 62 ]
+Nbits = [ 13 ]
+(0, 0)[168 x 137]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:13 DeltaX: 168 pixel DeltaY: 137 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 137 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 168 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 168 pixel Y: 137 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 24 ]
+charId[ 62 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |       20 ]
+[        0 |    65536 |     2660 ]
+[ 1.000000 | 0.000000 | 1.000000 ]
+[ 0.000000 | 1.000000 | 133.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 39 ]
+ShapeId[ 63 ]
+Nbits = [ 13 ]
+(0, 0)[162 x 116]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 17 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:13 DeltaX: 162 pixel DeltaY: 116 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y: 116 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+0:Horizontal lines
+line to[ X: 162 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 11 + 2 ]
+1:Vertical lines
+line to[ X: 162 pixel Y: 116 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 10 ]
+PlaceFlag[ 0x06 ] depth[ 25 ]
+charId[ 63 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3900 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 195.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DefineShape ](ID = [ 2 ])
+タグの長さ[ 38 ]
+ShapeId[ 64 ]
+Nbits = [ 12 ]
+(0, 0)[85 x 66]
+<<<<<<<<<<<<<<<<< FILLSTYLEARRAY >>>>>>>>>>>>>>>>>
+FillStyle数[ 1 ]
+FillStyleType[ 0x41 ]
+BMPCharId[ 18 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S:22 R: 0 T: 0 ]
+[  1310720 |        0 |        0 ]
+[        0 |  1310720 |        0 ]
+[ 20.000000 | 0.000000 | 0.000000 ]
+[ 0.000000 | 20.000000 | 0.000000 ]
+<<<<<<<<<<<<<<<<< LINESTYLEARRAY >>>>>>>>>>>>>>>>>
+LineStyle数[ 0 ]
+NumBits[ Fill:1 Line:0 ]
+<<<<<<<<<<<<<<< STYLECHANGERECORD >>>>>>>>>>>>>>>
+移動あり
+フィルスタイル１チェンジ
+Move[ Bits:12 DeltaX:  85 pixel DeltaY:  66 pixel ]
+FillStyle1[ 1 ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+0:Horizontal lines
+line to[ X:   0 pixel Y:  66 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:   0 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+0:Horizontal lines
+line to[ X:  85 pixel Y:   0 pixel ]
+<<<<<<<<<<<<<<< STRAIGHTEDGERECORD >>>>>>>>>>>>>>>
+Nbits[ 10 + 2 ]
+1:Vertical lines
+line to[ X:  85 pixel Y:  66 pixel ]
+<<<<<<<<<<<<<<< ENDSHAPERECORD >>>>>>>>>>>>>>>
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 16 ]
+PlaceFlag[ 0x0e ] depth[ 26 ]
+charId[ 64 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |       80 ]
+[        0 |    65536 |     2860 ]
+[ 1.000000 | 0.000000 | 4.000000 ]
+[ 0.000000 | 1.000000 | 143.000000 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:    0:0.000000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3887 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 194.350000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:   12:0.046875  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3874 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 193.700000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:   24:0.093750  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3861 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 193.050000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:   37:0.144531  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3848 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 192.400000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:   49:0.191406  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3835 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 191.750000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:   61:0.238281  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3822 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 191.100000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:   73:0.285156  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3809 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 190.450000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:   85:0.332031  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3796 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 189.800000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:   98:0.382813  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3784 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 189.200000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  110:0.429688  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3771 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 188.550000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  122:0.476563  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3758 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 187.900000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  134:0.523438  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3745 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 187.250000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  146:0.570313  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3732 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 186.600000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  158:0.617188  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3719 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 185.950000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  171:0.667969  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3706 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 185.300000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  183:0.714844  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3693 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 184.650000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  195:0.761719  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 8 ]
+PlaceFlag[ 0x05 ] depth[ 25 ]
+<<<<<<<<<<<<<<<<<<<< MATRIX >>>>>>>>>>>>>>>>>>>>
+[ S: 0 R: 0 T:13 ]
+[    65536 |        0 |      360 ]
+[        0 |    65536 |     3680 ]
+[ 1.000000 | 0.000000 | 18.000000 ]
+[ 0.000000 | 1.000000 | 184.000000 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  207:0.808594  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  219:0.855469  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  232:0.906250  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 9 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 10 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  244:0.953125  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ DoAction ](ID = [ 12 ])
+タグの長さ[ 2 ]
+<<<<<<<<<<<<<<<<<<<< ACTION >>>>>>>>>>>>>>>>>>>>
+Action[ ActionStop : 0 bytes ]
+Action[ ActionEnd : 0 bytes ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ FrameLabel ](ID = [ 43 ])
+タグの長さ[ 10 ]
+FrameLabel[ fl_wait_7 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ PlaceObject2 ](ID = [ 26 ])
+タグの長さ[ 4 ]
+PlaceFlag[ 0x09 ] depth[ 26 ]
+<<<<<<<<<<<<<<<<<<<< CXFORM >>>>>>>>>>>>>>>>>>>>
+Nbits[ 1 ]
+R:  mul:  256:1.000000  add:   0
+G:  mul:  256:1.000000  add:   0
+B:  mul:  256:1.000000  add:   0
+A:  mul:  256:1.000000  add:   0
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ ShowFrame ](ID = [ 1 ])
+タグの長さ[ 0 ]
+//***********************************************
+//		タグヘッダー
+//***********************************************
+TagName[ End ](ID = [ 0 ])
+タグの長さ[ 0 ]

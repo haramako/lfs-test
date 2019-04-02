@@ -1,0 +1,6 @@
+[ 重複インスタンス名 : ins_system_dialogue_cursor_001_yes_ef ]
+[ 重複インスタンス名 : ins_system_dialogue_cursor_001_yes_ef ]
+[ 重複インスタンス名 : ins_system_dialogue_cursor_001_no_ef ]
+[ 重複インスタンス名 : ins_system_dialogue_cursor_001_no_ef ]
+[ 重複インスタンス名 : ins_system_dialogue_cursor_001_ok_ef ]
+[ 重複インスタンス名 : ins_system_dialogue_cursor_001_ok_ef ]

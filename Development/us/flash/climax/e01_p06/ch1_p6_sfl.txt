@@ -1,0 +1,8686 @@
+//////////////////////////////////////////////////
+//	SFLファイルヘッダー
+//////////////////////////////////////////////////
+Signature[ SFLL ]
+Version[ SFL : 0.3 / SWF : 7 ]
+Count[ 5 ]
+//////////////////////////////////////////////////
+//	DefineDatabase
+//////////////////////////////////////////////////
+Type [ 0 ]
+Size [ 0 ]
+Count[ 32 ]
+--------------------------------------------------
+< DatabaseIndex =  0 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 1
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex =  1 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 2
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex =  2 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 3
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex =  3 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 4
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex =  4 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 5
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex =  5 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 6
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex =  6 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 7
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex =  7 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 8
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex =  8 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 9
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex =  9 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 10
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex = 10 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 11
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex = 11 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 12
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex = 12 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 13
+Type = eSFL_DATABASE_TYPE_TEXTURE
+--------------------------------------------------
+< DatabaseIndex = 13 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 14
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 14 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 15
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 15 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 16
+Type = eSFL_DATABASE_TYPE_SPRITE
+--------------------------------------------------
+< DatabaseIndex = 16 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 17
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 17 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 18
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 18 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 19
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 19 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 20
+Type = eSFL_DATABASE_TYPE_SPRITE
+--------------------------------------------------
+< DatabaseIndex = 20 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 21
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 21 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 22
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 22 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 23
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 23 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 24
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 24 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 25
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 25 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 26
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 26 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 27
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 27 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 28
+Type = eSFL_DATABASE_TYPE_SPRITE
+--------------------------------------------------
+< DatabaseIndex = 28 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 29
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 29 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 30
+Type = eSFL_DATABASE_TYPE_SPRITE
+--------------------------------------------------
+< DatabaseIndex = 30 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 31
+Type = eSFL_DATABASE_TYPE_SHAPE
+--------------------------------------------------
+< DatabaseIndex = 31 >
+--------------------------------------------------
+ulSize = 0
+ulCount = 1
+swf_index = 32
+Type = eSFL_DATABASE_TYPE_SPRITE
+//////////////////////////////////////////////////
+//	PlaceDatabase
+//////////////////////////////////////////////////
+Type [ 1 ]
+Size [ 220 ]
+Count[ 11 ]
+--------------------------------------------------
+< DatabaseIndex =  0 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 0
+usSpriteId = 0
+--------------------------------------------------
+< DatabaseIndex =  1 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 0
+usSpriteId = 1
+--------------------------------------------------
+< DatabaseIndex =  2 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 0
+usSpriteId = 2
+--------------------------------------------------
+< DatabaseIndex =  3 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 0
+usSpriteId = 3
+--------------------------------------------------
+< DatabaseIndex =  4 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 0
+usSpriteId = 2
+--------------------------------------------------
+< DatabaseIndex =  5 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 0
+usSpriteId = 3
+--------------------------------------------------
+< DatabaseIndex =  6 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 0
+usSpriteId = 2
+--------------------------------------------------
+< DatabaseIndex =  7 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 0
+usSpriteId = 3
+--------------------------------------------------
+< DatabaseIndex =  8 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 0
+usSpriteId = 4
+--------------------------------------------------
+< DatabaseIndex =  9 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 0
+usSpriteId = 4
+--------------------------------------------------
+< DatabaseIndex = 10 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 0
+usSpriteId = 4
+//////////////////////////////////////////////////
+//	TextureDatabase
+//////////////////////////////////////////////////
+Type [ 2 ]
+Size [ 260 ]
+Count[ 13 ]
+--------------------------------------------------
+< DatabaseIndex =  0 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 1
+usWidth = 183
+usHeight = 155
+--------------------------------------------------
+< DatabaseIndex =  1 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 2
+usWidth = 123
+usHeight = 142
+--------------------------------------------------
+< DatabaseIndex =  2 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 3
+usWidth = 202
+usHeight = 240
+--------------------------------------------------
+< DatabaseIndex =  3 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 4
+usWidth = 49
+usHeight = 73
+--------------------------------------------------
+< DatabaseIndex =  4 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 5
+usWidth = 35
+usHeight = 33
+--------------------------------------------------
+< DatabaseIndex =  5 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 6
+usWidth = 31
+usHeight = 27
+--------------------------------------------------
+< DatabaseIndex =  6 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 7
+usWidth = 56
+usHeight = 75
+--------------------------------------------------
+< DatabaseIndex =  7 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 8
+usWidth = 248
+usHeight = 268
+--------------------------------------------------
+< DatabaseIndex =  8 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 9
+usWidth = 203
+usHeight = 147
+--------------------------------------------------
+< DatabaseIndex =  9 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 10
+usWidth = 193
+usHeight = 111
+--------------------------------------------------
+< DatabaseIndex = 10 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 11
+usWidth = 271
+usHeight = 264
+--------------------------------------------------
+< DatabaseIndex = 11 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 12
+usWidth = 480
+usHeight = 272
+--------------------------------------------------
+< DatabaseIndex = 12 >
+--------------------------------------------------
+ulSize = 4
+ulCount = 1
+swf_index = 13
+usWidth = 8
+usHeight = 8
+//////////////////////////////////////////////////
+//	ShapeDatabase
+//////////////////////////////////////////////////
+Type [ 3 ]
+Size [ 848 ]
+Count[ 14 ]
+--------------------------------------------------
+< DatabaseIndex =  0 >
+--------------------------------------------------
+ulSize = 312
+ulCount = 13
+swf_index = 14
+texture = 12
+color = 0x80808080
+RECT = Xmin:480 Xmax:488 Ymin:272 Ymax:280
+texture = 11
+color = 0x80808080
+RECT = Xmin:480 Xmax:960 Ymin:272 Ymax:544
+texture = 10
+color = 0x80808080
+RECT = Xmin:480 Xmax:751 Ymin:272 Ymax:536
+texture = 9
+color = 0x80808080
+RECT = Xmin:480 Xmax:673 Ymin:272 Ymax:383
+texture = 8
+color = 0x80808080
+RECT = Xmin:480 Xmax:683 Ymin:272 Ymax:419
+texture = 7
+color = 0x80808080
+RECT = Xmin:480 Xmax:728 Ymin:272 Ymax:540
+texture = 6
+color = 0x80808080
+RECT = Xmin:480 Xmax:536 Ymin:272 Ymax:347
+texture = 5
+color = 0x80808080
+RECT = Xmin:480 Xmax:511 Ymin:272 Ymax:299
+texture = 4
+color = 0x80808080
+RECT = Xmin:480 Xmax:515 Ymin:272 Ymax:305
+texture = 3
+color = 0x80808080
+RECT = Xmin:480 Xmax:529 Ymin:272 Ymax:345
+texture = 2
+color = 0x80808080
+RECT = Xmin:480 Xmax:682 Ymin:272 Ymax:512
+texture = 1
+color = 0x80808080
+RECT = Xmin:480 Xmax:603 Ymin:272 Ymax:414
+texture = 0
+color = 0x80808080
+RECT = Xmin:480 Xmax:663 Ymin:272 Ymax:427
+--------------------------------------------------
+< DatabaseIndex =  1 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 15
+texture = 12
+color = 0x80808080
+RECT = Xmin:0 Xmax:8 Ymin:0 Ymax:8
+--------------------------------------------------
+< DatabaseIndex =  2 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 17
+texture = 11
+color = 0x80808080
+RECT = Xmin:0 Xmax:480 Ymin:0 Ymax:272
+--------------------------------------------------
+< DatabaseIndex =  3 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 18
+texture = 8
+color = 0x80808080
+RECT = Xmin:0 Xmax:203 Ymin:0 Ymax:147
+--------------------------------------------------
+< DatabaseIndex =  4 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 19
+texture = 0
+color = 0x80808080
+RECT = Xmin:0 Xmax:183 Ymin:0 Ymax:155
+--------------------------------------------------
+< DatabaseIndex =  5 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 21
+texture = 3
+color = 0x80808080
+RECT = Xmin:0 Xmax:49 Ymin:0 Ymax:73
+--------------------------------------------------
+< DatabaseIndex =  6 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 22
+texture = 5
+color = 0x80808080
+RECT = Xmin:0 Xmax:31 Ymin:0 Ymax:27
+--------------------------------------------------
+< DatabaseIndex =  7 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 23
+texture = 4
+color = 0x80808080
+RECT = Xmin:0 Xmax:35 Ymin:0 Ymax:33
+--------------------------------------------------
+< DatabaseIndex =  8 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 24
+texture = 9
+color = 0x80808080
+RECT = Xmin:0 Xmax:193 Ymin:0 Ymax:111
+--------------------------------------------------
+< DatabaseIndex =  9 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 25
+texture = 1
+color = 0x80808080
+RECT = Xmin:0 Xmax:123 Ymin:0 Ymax:142
+--------------------------------------------------
+< DatabaseIndex = 10 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 26
+texture = 6
+color = 0x80808080
+RECT = Xmin:0 Xmax:56 Ymin:0 Ymax:75
+--------------------------------------------------
+< DatabaseIndex = 11 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 27
+texture = 10
+color = 0x80808080
+RECT = Xmin:0 Xmax:271 Ymin:0 Ymax:264
+--------------------------------------------------
+< DatabaseIndex = 12 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 29
+texture = 2
+color = 0x80808080
+RECT = Xmin:0 Xmax:202 Ymin:0 Ymax:240
+--------------------------------------------------
+< DatabaseIndex = 13 >
+--------------------------------------------------
+ulSize = 24
+ulCount = 1
+swf_index = 31
+texture = 7
+color = 0x80808080
+RECT = Xmin:0 Xmax:248 Ymin:0 Ymax:268
+//////////////////////////////////////////////////
+//	SpriteDatabase
+//////////////////////////////////////////////////
+Type [ 4 ]
+Size [ 916 ]
+Count[ 5 ]
+--------------------------------------------------
+< DatabaseIndex =  0 >
+--------------------------------------------------
+ulSize = 48
+ulCount = 2
+swf_index = 16
+layer_max = 1
+----------< FrameIndex = 0 >----------
+Label    = [   ]
+Size     = [ 24 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x06
+usDepth = 1
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 1
+ubFlag = 0x11
+ubNbits = [ 23 ] : Scale
+param = 3932160 : 60.000000
+param = 2228224 : 34.000000
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 1 >----------
+Label    = [   ]
+Size     = [ 0 ]
+hSize    = [ 12 ]
+TagCount = [ 0 ]
+--------------------------------------------------
+< DatabaseIndex =  1 >
+--------------------------------------------------
+ulSize = 668
+ulCount = 33
+swf_index = 20
+layer_max = 1
+----------< FrameIndex = 0 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x06
+usDepth = 1
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 4
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 1 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 2 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 7 ] : Translate
+param = -40 : -2.000000
+param = -20 : -1.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 3 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 4 >----------
+Label    = [   ]
+Size     = [ 12 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 4 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 5 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 6 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x04
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 6 ] : Translate
+param = -20 : -1.000000
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 7 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 8 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 9 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 10 >----------
+Label    = [   ]
+Size     = [ 12 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 4 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 11 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 12 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x04
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 6 ] : Translate
+param = -20 : -1.000000
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 13 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 14 >----------
+Label    = [   ]
+Size     = [ 12 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 4 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 15 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 16 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x04
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 6 ] : Translate
+param = -20 : -1.000000
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 17 >----------
+Label    = [   ]
+Size     = [ 12 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 4 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 18 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 19 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 7 ] : Translate
+param = -40 : -2.000000
+param = -20 : -1.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 20 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 21 >----------
+Label    = [   ]
+Size     = [ 12 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 4 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 22 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 23 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x04
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 6 ] : Translate
+param = -20 : -1.000000
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 24 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 25 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 26 >----------
+Label    = [   ]
+Size     = [ 12 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 4 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 27 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 28 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 29 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 30 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x04
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 6 ] : Translate
+param = -20 : -1.000000
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 31 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 32 >----------
+Label    = [   ]
+Size     = [ 0 ]
+hSize    = [ 12 ]
+TagCount = [ 0 ]
+--------------------------------------------------
+< DatabaseIndex =  2 >
+--------------------------------------------------
+ulSize = 40
+ulCount = 2
+swf_index = 28
+layer_max = 1
+----------< FrameIndex = 0 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x06
+usDepth = 1
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 11
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 1 >----------
+Label    = [   ]
+Size     = [ 0 ]
+hSize    = [ 12 ]
+TagCount = [ 0 ]
+--------------------------------------------------
+< DatabaseIndex =  3 >
+--------------------------------------------------
+ulSize = 40
+ulCount = 2
+swf_index = 30
+layer_max = 1
+----------< FrameIndex = 0 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x06
+usDepth = 1
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 12
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 1 >----------
+Label    = [   ]
+Size     = [ 0 ]
+hSize    = [ 12 ]
+TagCount = [ 0 ]
+--------------------------------------------------
+< DatabaseIndex =  4 >
+--------------------------------------------------
+ulSize = 40
+ulCount = 2
+swf_index = 32
+layer_max = 1
+----------< FrameIndex = 0 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x06
+usDepth = 1
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 13
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 1 >----------
+Label    = [   ]
+Size     = [ 0 ]
+hSize    = [ 12 ]
+TagCount = [ 0 ]
+//////////////////////////////////////////////////
+//	MainDatabase
+//////////////////////////////////////////////////
+Type [ 5 ]
+Size [ 10088 ]
+Count[ 1 ]
+--------------------------------------------------
+< DatabaseIndex =  0 >
+--------------------------------------------------
+ulSize = 10072
+ulCount = 270
+swf_index = 0
+layer_max = 30
+----------< FrameIndex = 0 >----------
+Label    = [   ]
+Size     = [ 16 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x06
+usDepth = 13
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 0
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 1 >----------
+Label    = [ fl_stop ]
+Size     = [ 24 ]
+hSize    = [ 16 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 13
+///////////////////////////////////////
+TagName[ DoAction ](ID = [ 12 ])
+TagSize[ 8 ]
+ubActionId = 0x07 : ActionStop
+usActionSize = 0
+ubActionId = 0x00 : ActionEnd
+usActionSize = 0
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 2 >----------
+Label    = [ fl_in_1 ]
+Size     = [ 76 ]
+hSize    = [ 16 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 40 ]
+ubPlaceFlag = 0x36
+usDepth = 1
+ubType = eSFL_DATABASE_TYPE_SPRITE
+usCharacterID = 0
+ubFlag = 0x3f
+ubNbits = [ 17 ] : Scale
+param = 59280 : 0.904541
+param = 59280 : 0.904541
+ubNbits = [ 16 ] : Rotate
+param = 27718 : 0.422943
+param = -27718 : -0.422943
+ubNbits = [ 14 ] : Translate
+param = 6328 : 316.400000
+param = -8010 : -400.500000
+CharName = ins_bg_black_000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 24 ]
+ubPlaceFlag = 0x06
+usDepth = 30
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 2
+ubFlag = 0x3f
+ubNbits = [ 17 ] : Scale
+param = 59306 : 0.904938
+param = 59306 : 0.904938
+ubNbits = [ 16 ] : Rotate
+param = 27697 : 0.422623
+param = -27697 : -0.422623
+ubNbits = [ 14 ] : Translate
+param = 6299 : 314.950000
+param = -8000 : -400.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 3 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 20 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x3f
+ubNbits = [ 17 ] : Scale
+param = 61431 : 0.937363
+param = 61431 : 0.937363
+ubNbits = [ 16 ] : Rotate
+param = 22400 : 0.341797
+param = -22400 : -0.341797
+ubNbits = [ 14 ] : Translate
+param = 5006 : 250.300000
+param = -6462 : -323.100000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 20 ]
+ubPlaceFlag = 0x05
+usDepth = 30
+ubFlag = 0x3f
+ubNbits = [ 17 ] : Scale
+param = 61446 : 0.937592
+param = 61446 : 0.937592
+ubNbits = [ 16 ] : Rotate
+param = 22401 : 0.341812
+param = -22401 : -0.341812
+ubNbits = [ 14 ] : Translate
+param = 4984 : 249.200000
+param = -6455 : -322.750000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 4 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 20 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x3f
+ubNbits = [ 17 ] : Scale
+param = 63187 : 0.964157
+param = 63187 : 0.964157
+ubNbits = [ 16 ] : Rotate
+param = 16957 : 0.258743
+param = -16957 : -0.258743
+ubNbits = [ 14 ] : Translate
+param = 3708 : 185.400000
+param = -4888 : -244.400000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 20 ]
+ubPlaceFlag = 0x05
+usDepth = 30
+ubFlag = 0x3f
+ubNbits = [ 17 ] : Scale
+param = 63197 : 0.964310
+param = 63197 : 0.964310
+ubNbits = [ 16 ] : Rotate
+param = 16956 : 0.258728
+param = -16956 : -0.258728
+ubNbits = [ 14 ] : Translate
+param = 3691 : 184.550000
+param = -4882 : -244.100000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 5 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 20 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x3f
+ubNbits = [ 17 ] : Scale
+param = 64463 : 0.983627
+param = 64463 : 0.983627
+ubNbits = [ 15 ] : Rotate
+param = 11381 : 0.173660
+param = -11381 : -0.173660
+ubNbits = [ 13 ] : Translate
+param = 2439 : 121.950000
+param = -3284 : -164.200000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 20 ]
+ubPlaceFlag = 0x05
+usDepth = 30
+ubFlag = 0x3f
+ubNbits = [ 17 ] : Scale
+param = 64470 : 0.983734
+param = 64470 : 0.983734
+ubNbits = [ 15 ] : Rotate
+param = 11379 : 0.173630
+param = -11379 : -0.173630
+ubNbits = [ 13 ] : Translate
+param = 2427 : 121.350000
+param = -3282 : -164.100000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 6 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 20 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x3f
+ubNbits = [ 17 ] : Scale
+param = 65247 : 0.995590
+param = 65247 : 0.995590
+ubNbits = [ 14 ] : Rotate
+param = 5713 : 0.087173
+param = -5713 : -0.087173
+ubNbits = [ 12 ] : Translate
+param = 1202 : 60.100000
+param = -1655 : -82.750000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 20 ]
+ubPlaceFlag = 0x05
+usDepth = 30
+ubFlag = 0x3f
+ubNbits = [ 17 ] : Scale
+param = 65250 : 0.995636
+param = 65250 : 0.995636
+ubNbits = [ 14 ] : Rotate
+param = 5712 : 0.087158
+param = -5712 : -0.087158
+ubNbits = [ 12 ] : Translate
+param = 1197 : 59.850000
+param = -1653 : -82.650000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 7 >----------
+Label    = [ fl_wait_1 ]
+Size     = [ 32 ]
+hSize    = [ 20 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ DoAction ](ID = [ 12 ])
+TagSize[ 8 ]
+ubActionId = 0x07 : ActionStop
+usActionSize = 0
+ubActionId = 0x00 : ActionEnd
+usActionSize = 0
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 4 ]
+ubPlaceFlag = 0x05
+usDepth = 1
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 4 ]
+ubPlaceFlag = 0x05
+usDepth = 30
+ubFlag = 0x00
+param = none
+param = none
+param = none
+param = none
+param = none
+param = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 8 >----------
+Label    = [ fl_in_2 ]
+Size     = [ 76 ]
+hSize    = [ 16 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x06
+usDepth = 21
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 3
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5460 : 273.000000
+param = 40 : 2.000000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 32 ]
+ubPlaceFlag = 0x36
+usDepth = 22
+ubType = eSFL_DATABASE_TYPE_SPRITE
+usCharacterID = 1
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 220 : 11.000000
+CharName = ins_ch1_p6_1_000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0e
+usDepth = 24
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 5
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1060 : 53.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 0 : 0.000000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 9 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 221 : 11.050000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5588 : 279.400000
+param = 1052 : 52.600000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 8 : 0.031250
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 10 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 222 : 11.100000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5576 : 278.800000
+param = 1044 : 52.200000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 16 : 0.062500
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 11 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 224 : 11.200000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5564 : 278.200000
+param = 1036 : 51.800000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 24 : 0.093750
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 12 >----------
+Label    = [   ]
+Size     = [ 56 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 225 : 11.250000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5552 : 277.600000
+param = 1028 : 51.400000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 32 : 0.125000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0e
+usDepth = 26
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 6
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 15 ] : Translate
+param = 8380 : 419.000000
+param = 1280 : 64.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 0 : 0.000000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 13 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 226 : 11.300000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5540 : 277.000000
+param = 1020 : 51.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 40 : 0.156250
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 26
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 15 ] : Translate
+param = 8380 : 419.000000
+param = 1291 : 64.550000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 28 : 0.109375
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 14 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 227 : 11.350000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5553 : 277.650000
+param = 1015 : 50.750000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 48 : 0.187500
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 26
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 15 ] : Translate
+param = 8380 : 419.000000
+param = 1302 : 65.100000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 57 : 0.222656
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 15 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 228 : 11.400000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5567 : 278.350000
+param = 1010 : 50.500000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 56 : 0.218750
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 26
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 15 ] : Translate
+param = 8380 : 419.000000
+param = 1313 : 65.650000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 85 : 0.332031
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 16 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 229 : 11.450000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5580 : 279.000000
+param = 1004 : 50.200000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 64 : 0.250000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 26
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 15 ] : Translate
+param = 8380 : 419.000000
+param = 1324 : 66.200000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 114 : 0.445313
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 17 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 231 : 11.550000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5593 : 279.650000
+param = 999 : 49.950000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 72 : 0.281250
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 26
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 15 ] : Translate
+param = 8380 : 419.000000
+param = 1336 : 66.800000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 142 : 0.554688
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 18 >----------
+Label    = [   ]
+Size     = [ 72 ]
+hSize    = [ 12 ]
+TagCount = [ 5 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 232 : 11.600000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5607 : 280.350000
+param = 994 : 49.700000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 80 : 0.312500
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0e
+usDepth = 25
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 7
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 6180 : 309.000000
+param = 520 : 26.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 0 : 0.000000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 26
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 15 ] : Translate
+param = 8380 : 419.000000
+param = 1347 : 67.350000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 171 : 0.667969
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 19 >----------
+Label    = [   ]
+Size     = [ 68 ]
+hSize    = [ 12 ]
+TagCount = [ 5 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 233 : 11.650000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5620 : 281.000000
+param = 989 : 49.450000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 88 : 0.343750
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 25
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 6180 : 309.000000
+param = 531 : 26.550000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 28 : 0.109375
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 26
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 15 ] : Translate
+param = 8380 : 419.000000
+param = 1358 : 67.900000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 199 : 0.777344
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 20 >----------
+Label    = [   ]
+Size     = [ 68 ]
+hSize    = [ 12 ]
+TagCount = [ 5 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 234 : 11.700000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5633 : 281.650000
+param = 983 : 49.150000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 96 : 0.375000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 25
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 6180 : 309.000000
+param = 542 : 27.100000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 57 : 0.222656
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 26
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 15 ] : Translate
+param = 8380 : 419.000000
+param = 1369 : 68.450000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 228 : 0.890625
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 21 >----------
+Label    = [   ]
+Size     = [ 68 ]
+hSize    = [ 12 ]
+TagCount = [ 5 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 235 : 11.750000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5647 : 282.350000
+param = 978 : 48.900000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 104 : 0.406250
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 25
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 6180 : 309.000000
+param = 553 : 27.650000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 85 : 0.332031
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 26
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 15 ] : Translate
+param = 8380 : 419.000000
+param = 1380 : 69.000000
+ubFlag = 0x00
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 22 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 236 : 11.800000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5660 : 283.000000
+param = 973 : 48.650000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 112 : 0.437500
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 25
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 6180 : 309.000000
+param = 564 : 28.200000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 114 : 0.445313
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 23 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 238 : 11.900000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5652 : 282.600000
+param = 982 : 49.100000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 120 : 0.468750
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 25
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 6180 : 309.000000
+param = 576 : 28.800000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 142 : 0.554688
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 24 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 239 : 11.950000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5644 : 282.200000
+param = 992 : 49.600000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 128 : 0.500000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 25
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 6180 : 309.000000
+param = 587 : 29.350000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 171 : 0.667969
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 25 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 240 : 12.000000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5637 : 281.850000
+param = 1001 : 50.050000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 136 : 0.531250
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 25
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 6180 : 309.000000
+param = 598 : 29.900000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 199 : 0.777344
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 26 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 241 : 12.050000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5629 : 281.450000
+param = 1010 : 50.500000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 144 : 0.562500
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 25
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 6180 : 309.000000
+param = 609 : 30.450000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 228 : 0.890625
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 27 >----------
+Label    = [   ]
+Size     = [ 52 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 242 : 12.100000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5621 : 281.050000
+param = 1020 : 51.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 152 : 0.593750
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 25
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 6180 : 309.000000
+param = 620 : 31.000000
+ubFlag = 0x00
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 28 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 244 : 12.200000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5613 : 280.650000
+param = 1029 : 51.450000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 160 : 0.625000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 29 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 245 : 12.250000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5606 : 280.300000
+param = 1038 : 51.900000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 168 : 0.656250
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 30 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 246 : 12.300000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5598 : 279.900000
+param = 1048 : 52.400000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 176 : 0.687500
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 31 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 247 : 12.350000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5590 : 279.500000
+param = 1057 : 52.850000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 184 : 0.718750
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 32 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 248 : 12.400000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5591 : 279.550000
+param = 1057 : 52.850000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 192 : 0.750000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 33 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 249 : 12.450000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5592 : 279.600000
+param = 1058 : 52.900000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 200 : 0.781250
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 34 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 251 : 12.550000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5593 : 279.650000
+param = 1058 : 52.900000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 208 : 0.812500
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 35 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 252 : 12.600000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5594 : 279.700000
+param = 1058 : 52.900000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 216 : 0.843750
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 36 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 253 : 12.650000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5596 : 279.800000
+param = 1059 : 52.950000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 224 : 0.875000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 37 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 254 : 12.700000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5597 : 279.850000
+param = 1059 : 52.950000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 232 : 0.906250
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 38 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 255 : 12.750000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5598 : 279.900000
+param = 1059 : 52.950000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 240 : 0.937500
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 39 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 256 : 12.800000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5599 : 279.950000
+param = 1060 : 53.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 248 : 0.968750
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 40 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 258 : 12.900000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1060 : 53.000000
+ubFlag = 0x00
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 41 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 259 : 12.950000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5595 : 279.750000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 42 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 260 : 13.000000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5589 : 279.450000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 43 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 261 : 13.050000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5584 : 279.200000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 44 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 262 : 13.100000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5578 : 278.900000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 45 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 264 : 13.200000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5573 : 278.650000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 46 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 265 : 13.250000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5567 : 278.350000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 47 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 266 : 13.300000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5562 : 278.100000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 48 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 267 : 13.350000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5556 : 277.800000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 49 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 268 : 13.400000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5551 : 277.550000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 50 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 269 : 13.450000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5545 : 277.250000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 51 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 271 : 13.550000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5540 : 277.000000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 52 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 272 : 13.600000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5543 : 277.150000
+param = 1056 : 52.800000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 53 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 273 : 13.650000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5546 : 277.300000
+param = 1051 : 52.550000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 54 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 274 : 13.700000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5549 : 277.450000
+param = 1047 : 52.350000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 55 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 275 : 13.750000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5551 : 277.550000
+param = 1043 : 52.150000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 56 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 276 : 13.800000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5554 : 277.700000
+param = 1039 : 51.950000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 57 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 278 : 13.900000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5557 : 277.850000
+param = 1034 : 51.700000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 58 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 279 : 13.950000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5560 : 278.000000
+param = 1030 : 51.500000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 59 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 280 : 14.000000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5563 : 278.150000
+param = 1026 : 51.300000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 60 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 281 : 14.050000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5566 : 278.300000
+param = 1021 : 51.050000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 61 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 282 : 14.100000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5569 : 278.450000
+param = 1017 : 50.850000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 62 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 284 : 14.200000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5571 : 278.550000
+param = 1013 : 50.650000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 63 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 285 : 14.250000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5574 : 278.700000
+param = 1009 : 50.450000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 64 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 286 : 14.300000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5577 : 278.850000
+param = 1004 : 50.200000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 65 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 287 : 14.350000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5580 : 279.000000
+param = 1000 : 50.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 66 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 288 : 14.400000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5581 : 279.050000
+param = 1004 : 50.200000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 67 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 289 : 14.450000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5583 : 279.150000
+param = 1009 : 50.450000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 68 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 291 : 14.550000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5584 : 279.200000
+param = 1013 : 50.650000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 69 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 292 : 14.600000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5586 : 279.300000
+param = 1017 : 50.850000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 70 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 293 : 14.650000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5587 : 279.350000
+param = 1021 : 51.050000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 71 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 294 : 14.700000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5589 : 279.450000
+param = 1026 : 51.300000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 72 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 295 : 14.750000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5590 : 279.500000
+param = 1030 : 51.500000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 73 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 296 : 14.800000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5591 : 279.550000
+param = 1034 : 51.700000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 74 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 298 : 14.900000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5593 : 279.650000
+param = 1039 : 51.950000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 75 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 299 : 14.950000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5594 : 279.700000
+param = 1043 : 52.150000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 76 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 300 : 15.000000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5596 : 279.800000
+param = 1047 : 52.350000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 77 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 301 : 15.050000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5597 : 279.850000
+param = 1051 : 52.550000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 78 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 302 : 15.100000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5599 : 279.950000
+param = 1056 : 52.800000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 79 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 304 : 15.200000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1060 : 53.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 80 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 305 : 15.250000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1066 : 53.300000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 81 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 306 : 15.300000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1071 : 53.550000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 82 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 307 : 15.350000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1077 : 53.850000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 83 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 308 : 15.400000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1083 : 54.150000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 84 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 309 : 15.450000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1089 : 54.450000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 85 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 311 : 15.550000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1094 : 54.700000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 86 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 312 : 15.600000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1100 : 55.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 87 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 313 : 15.650000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1106 : 55.300000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 88 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 314 : 15.700000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1111 : 55.550000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 89 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 315 : 15.750000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1117 : 55.850000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 90 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 316 : 15.800000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1123 : 56.150000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 91 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 318 : 15.900000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1129 : 56.450000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 92 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 319 : 15.950000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1134 : 56.700000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 93 >----------
+Label    = [ fl_wait_2 ]
+Size     = [ 48 ]
+hSize    = [ 20 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ DoAction ](ID = [ 12 ])
+TagSize[ 8 ]
+ubActionId = 0x07 : ActionStop
+usActionSize = 0
+ubActionId = 0x00 : ActionEnd
+usActionSize = 0
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 22
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 320 : 16.000000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 24
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5600 : 280.000000
+param = 1140 : 57.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 94 >----------
+Label    = [ fl_in_3 ]
+Size     = [ 80 ]
+hSize    = [ 16 ]
+TagCount = [ 6 ]
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 22
+///////////////////////////////////////
+TagName[ DoAction ](ID = [ 12 ])
+TagSize[ 16 ]
+ubActionId = 0x83 : ActionGetURL
+usActionSize = 8
+URL = se
+Target = 028
+ubActionId = 0x00 : ActionEnd
+usActionSize = 0
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x06
+usDepth = 22
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 4
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5760 : 288.000000
+param = 320 : 16.000000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x06
+usDepth = 27
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 8
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5360 : 268.000000
+param = 3060 : 153.000000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x06
+usDepth = 28
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 9
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5320 : 266.000000
+param = 2880 : 144.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 95 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5326 : 266.300000
+param = 2879 : 143.950000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 96 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5333 : 266.650000
+param = 2878 : 143.900000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 97 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5339 : 266.950000
+param = 2877 : 143.850000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 98 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5345 : 267.250000
+param = 2876 : 143.800000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 99 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5351 : 267.550000
+param = 2875 : 143.750000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 100 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5356 : 267.800000
+param = 2874 : 143.700000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 101 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5362 : 268.100000
+param = 2873 : 143.650000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 102 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5367 : 268.350000
+param = 2872 : 143.600000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 103 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5372 : 268.600000
+param = 2871 : 143.550000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 104 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5377 : 268.850000
+param = 2870 : 143.500000
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x06
+usDepth = 29
+ubType = eSFL_DATABASE_TYPE_SHAPE
+usCharacterID = 10
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 7800 : 390.000000
+param = 3380 : 169.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 105 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5382 : 269.100000
+param = 2870 : 143.500000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 106 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5386 : 269.300000
+param = 2869 : 143.450000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 107 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5391 : 269.550000
+param = 2868 : 143.400000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 108 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5395 : 269.750000
+param = 2868 : 143.400000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 109 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5399 : 269.950000
+param = 2867 : 143.350000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 110 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5403 : 270.150000
+param = 2866 : 143.300000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 111 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5407 : 270.350000
+param = 2866 : 143.300000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 112 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5410 : 270.500000
+param = 2865 : 143.250000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 113 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5413 : 270.650000
+param = 2864 : 143.200000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 114 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5417 : 270.850000
+param = 2864 : 143.200000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 115 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5420 : 271.000000
+param = 2863 : 143.150000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 116 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5422 : 271.100000
+param = 2863 : 143.150000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 117 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5425 : 271.250000
+param = 2862 : 143.100000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 118 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5428 : 271.400000
+param = 2862 : 143.100000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 119 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5430 : 271.500000
+param = 2862 : 143.100000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 120 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5432 : 271.600000
+param = 2861 : 143.050000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 121 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5434 : 271.700000
+param = 2861 : 143.050000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 122 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5436 : 271.800000
+param = 2861 : 143.050000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 123 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5437 : 271.850000
+param = 2860 : 143.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 124 >----------
+Label    = [   ]
+Size     = [ 20 ]
+hSize    = [ 12 ]
+TagCount = [ 2 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5439 : 271.950000
+param = 2860 : 143.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 125 >----------
+Label    = [ fl_wait_3 ]
+Size     = [ 32 ]
+hSize    = [ 20 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ DoAction ](ID = [ 12 ])
+TagSize[ 8 ]
+ubActionId = 0x07 : ActionStop
+usActionSize = 0
+ubActionId = 0x00 : ActionEnd
+usActionSize = 0
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x05
+usDepth = 28
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 14 ] : Translate
+param = 5440 : 272.000000
+param = 2860 : 143.000000
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 126 >----------
+Label    = [ fl_in_4 ]
+Size     = [ 184 ]
+hSize    = [ 16 ]
+TagCount = [ 6 ]
+///////////////////////////////////////
+TagName[ DoAction ](ID = [ 12 ])
+TagSize[ 16 ]
+ubActionId = 0x83 : ActionGetURL
+usActionSize = 8
+URL = se
+Target = 027
+ubActionId = 0x00 : ActionEnd
+usActionSize = 0
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 32 ]
+ubPlaceFlag = 0x36
+usDepth = 3
+ubType = eSFL_DATABASE_TYPE_SPRITE
+usCharacterID = 2
+ubFlag = 0x20
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 7 ] : Translate
+param = none
+param = 60 : 3.000000
+CharName = ins_ch1_p6_bg3_000a
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 32 ]
+ubPlaceFlag = 0x36
+usDepth = 5
+ubType = eSFL_DATABASE_TYPE_SPRITE
+usCharacterID = 3
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = 960 : 48.000000
+param = 320 : 16.000000
+CharName = ins_ch1_p6_3_000a
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 40 ]
+ubPlaceFlag = 0x3e
+usDepth = 7
+ubType = eSFL_DATABASE_TYPE_SPRITE
+usCharacterID = 2
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 117965 : 1.800003
+param = 117965 : 1.800003
+param = none
+param = none
+ubNbits = [ 13 ] : Translate
+param = -2168 : -108.400000
+param = -2052 : -102.600000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 128 : 0.500000
+add = none
+add = none
+add = none
+add = none
+CharName = ins_ch1_p6_bg3_000b
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 40 ]
+ubPlaceFlag = 0x3e
+usDepth = 9
+ubType = eSFL_DATABASE_TYPE_SPRITE
+usCharacterID = 3
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 117964 : 1.799988
+param = 117964 : 1.799988
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -656 : -32.800000
+param = -1600 : -80.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 128 : 0.500000
+add = none
+add = none
+add = none
+add = none
+CharName = ins_ch1_p6_3_000b
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 127 >----------
+Label    = [   ]
+Size     = [ 44 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 113933 : 1.738480
+param = 113933 : 1.738480
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -2002 : -100.100000
+param = -1890 : -94.500000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 138 : 0.539063
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 113930 : 1.738434
+param = 113930 : 1.738434
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -533 : -26.650000
+param = -1452 : -72.600000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 138 : 0.539063
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 128 >----------
+Label    = [   ]
+Size     = [ 44 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 109899 : 1.676926
+param = 109899 : 1.676926
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -1835 : -91.750000
+param = -1727 : -86.350000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 148 : 0.578125
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 109898 : 1.676910
+param = 109898 : 1.676910
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -408 : -20.400000
+param = -1305 : -65.250000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 148 : 0.578125
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 129 >----------
+Label    = [   ]
+Size     = [ 44 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 105867 : 1.615402
+param = 105867 : 1.615402
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -1669 : -83.450000
+param = -1565 : -78.250000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 158 : 0.617188
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 105864 : 1.615356
+param = 105864 : 1.615356
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -284 : -14.200000
+param = -1157 : -57.850000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 158 : 0.617188
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 130 >----------
+Label    = [   ]
+Size     = [ 44 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 101833 : 1.553848
+param = 101833 : 1.553848
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -1502 : -75.100000
+param = -1402 : -70.100000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 167 : 0.652344
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 101833 : 1.553848
+param = 101833 : 1.553848
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -159 : -7.950000
+param = -1009 : -50.450000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 167 : 0.652344
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 131 >----------
+Label    = [   ]
+Size     = [ 132 ]
+hSize    = [ 12 ]
+TagCount = [ 5 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 97800 : 1.492310
+param = 97800 : 1.492310
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -1334 : -66.700000
+param = -1239 : -61.950000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 177 : 0.691406
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 97799 : 1.492294
+param = 97799 : 1.492294
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -35 : -1.750000
+param = -861 : -43.050000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 177 : 0.691406
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 40 ]
+ubPlaceFlag = 0x3e
+usDepth = 11
+ubType = eSFL_DATABASE_TYPE_SPRITE
+usCharacterID = 2
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 117965 : 1.800003
+param = 117965 : 1.800003
+param = none
+param = none
+ubNbits = [ 13 ] : Translate
+param = -2168 : -108.400000
+param = -2052 : -102.600000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 0 : 0.000000
+add = none
+add = none
+add = none
+add = none
+CharName = ins_ch1_p6_bg3_000c
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 40 ]
+ubPlaceFlag = 0x3e
+usDepth = 13
+ubType = eSFL_DATABASE_TYPE_SPRITE
+usCharacterID = 3
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 117964 : 1.799988
+param = 117964 : 1.799988
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -656 : -32.800000
+param = -1600 : -80.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 0 : 0.000000
+add = none
+add = none
+add = none
+add = none
+CharName = ins_ch1_p6_3_000c
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 132 >----------
+Label    = [   ]
+Size     = [ 84 ]
+hSize    = [ 12 ]
+TagCount = [ 5 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 93768 : 1.430786
+param = 93768 : 1.430786
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -1168 : -58.400000
+param = -1077 : -53.850000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 187 : 0.730469
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 93767 : 1.430771
+param = 93767 : 1.430771
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = 90 : 4.500000
+param = -714 : -35.700000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 187 : 0.730469
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 11
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 111411 : 1.699997
+param = 111411 : 1.699997
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -1898 : -94.900000
+param = -1788 : -89.400000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 32 : 0.125000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 13
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 111410 : 1.699982
+param = 111410 : 1.699982
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -455 : -22.750000
+param = -1360 : -68.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 32 : 0.125000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 133 >----------
+Label    = [   ]
+Size     = [ 84 ]
+hSize    = [ 12 ]
+TagCount = [ 5 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 89734 : 1.369232
+param = 89734 : 1.369232
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -1001 : -50.050000
+param = -915 : -45.750000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 197 : 0.769531
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 89733 : 1.369217
+param = 89733 : 1.369217
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = 214 : 10.700000
+param = -566 : -28.300000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 197 : 0.769531
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 11
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 104859 : 1.600021
+param = 104859 : 1.600021
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -1627 : -81.350000
+param = -1524 : -76.200000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 64 : 0.250000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 13
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 104856 : 1.599976
+param = 104856 : 1.599976
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -253 : -12.650000
+param = -1120 : -56.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 64 : 0.250000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 134 >----------
+Label    = [   ]
+Size     = [ 84 ]
+hSize    = [ 12 ]
+TagCount = [ 5 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 85702 : 1.307709
+param = 85702 : 1.307709
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -834 : -41.700000
+param = -753 : -37.650000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 207 : 0.808594
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 85699 : 1.307663
+param = 85699 : 1.307663
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = 337 : 16.850000
+param = -418 : -20.900000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 207 : 0.808594
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 11
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 98305 : 1.500015
+param = 98305 : 1.500015
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -1356 : -67.800000
+param = -1260 : -63.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 96 : 0.375000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 13
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 98305 : 1.500015
+param = 98305 : 1.500015
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -51 : -2.550000
+param = -879 : -43.950000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 96 : 0.375000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 135 >----------
+Label    = [   ]
+Size     = [ 84 ]
+hSize    = [ 12 ]
+TagCount = [ 5 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 81668 : 1.246155
+param = 81668 : 1.246155
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -668 : -33.400000
+param = -590 : -29.500000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 217 : 0.847656
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 81667 : 1.246140
+param = 81667 : 1.246140
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = 462 : 23.100000
+param = -271 : -13.550000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 217 : 0.847656
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 11
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 91752 : 1.400024
+param = 91752 : 1.400024
+param = none
+param = none
+ubNbits = [ 12 ] : Translate
+param = -1084 : -54.200000
+param = -996 : -49.800000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 128 : 0.500000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 13
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 91749 : 1.399979
+param = 91749 : 1.399979
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = 152 : 7.600000
+param = -639 : -31.950000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 128 : 0.500000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 136 >----------
+Label    = [   ]
+Size     = [ 128 ]
+hSize    = [ 12 ]
+TagCount = [ 6 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 77636 : 1.184631
+param = 77636 : 1.184631
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = -501 : -25.050000
+param = -427 : -21.350000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 226 : 0.882813
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 77635 : 1.184616
+param = 77635 : 1.184616
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = 586 : 29.300000
+param = -123 : -6.150000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 226 : 0.882813
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 11
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 85198 : 1.300018
+param = 85198 : 1.300018
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -814 : -40.700000
+param = -732 : -36.600000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 160 : 0.625000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 13
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 85197 : 1.300003
+param = 85197 : 1.300003
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = 353 : 17.650000
+param = -400 : -20.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 160 : 0.625000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 40 ]
+ubPlaceFlag = 0x3e
+usDepth = 15
+ubType = eSFL_DATABASE_TYPE_SPRITE
+usCharacterID = 4
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 84123 : 1.283615
+param = 84123 : 1.283615
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -523 : -26.150000
+param = -733 : -36.650000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 102 : 0.398438
+add = none
+add = none
+add = none
+add = none
+CharName = ins_ch1_p6_6_000a
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 137 >----------
+Label    = [   ]
+Size     = [ 148 ]
+hSize    = [ 12 ]
+TagCount = [ 7 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 73602 : 1.123077
+param = 73602 : 1.123077
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = -334 : -16.700000
+param = -265 : -13.250000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 236 : 0.921875
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 73602 : 1.123077
+param = 73602 : 1.123077
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = 711 : 35.550000
+param = 25 : 1.250000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 236 : 0.921875
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 11
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 78644 : 1.200012
+param = 78644 : 1.200012
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -542 : -27.100000
+param = -468 : -23.400000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 192 : 0.750000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 13
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 78643 : 1.199997
+param = 78643 : 1.199997
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = 556 : 27.800000
+param = -160 : -8.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 192 : 0.750000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 15
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 80407 : 1.226913
+param = 80407 : 1.226913
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -383 : -19.150000
+param = -582 : -29.100000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 133 : 0.519531
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 40 ]
+ubPlaceFlag = 0x3e
+usDepth = 17
+ubType = eSFL_DATABASE_TYPE_SPRITE
+usCharacterID = 4
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 84123 : 1.283615
+param = 84123 : 1.283615
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -523 : -26.150000
+param = -733 : -36.650000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 102 : 0.398438
+add = none
+add = none
+add = none
+add = none
+CharName = ins_ch1_p6_6_000b
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 138 >----------
+Label    = [   ]
+Size     = [ 168 ]
+hSize    = [ 12 ]
+TagCount = [ 8 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 69570 : 1.061554
+param = 69570 : 1.061554
+param = none
+param = none
+ubNbits = [ 9 ] : Translate
+param = -168 : -8.400000
+param = -102 : -5.100000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 246 : 0.960938
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 69570 : 1.061554
+param = 69570 : 1.061554
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = 835 : 41.750000
+param = 172 : 8.600000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 246 : 0.960938
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 11
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 72090 : 1.100006
+param = 72090 : 1.100006
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = -272 : -13.600000
+param = -204 : -10.200000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 224 : 0.875000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 13
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 72090 : 1.100006
+param = 72090 : 1.100006
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = 757 : 37.850000
+param = 80 : 4.000000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 224 : 0.875000
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 15
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 76688 : 1.170166
+param = 76688 : 1.170166
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = -243 : -12.150000
+param = -429 : -21.450000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 164 : 0.640625
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 17
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 80407 : 1.226913
+param = 80407 : 1.226913
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -383 : -19.150000
+param = -582 : -29.100000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 133 : 0.519531
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 40 ]
+ubPlaceFlag = 0x3e
+usDepth = 19
+ubType = eSFL_DATABASE_TYPE_SPRITE
+usCharacterID = 4
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 84123 : 1.283615
+param = 84123 : 1.283615
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -523 : -26.150000
+param = -733 : -36.650000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 102 : 0.398438
+add = none
+add = none
+add = none
+add = none
+CharName = ins_ch1_p6_6_000c
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 139 >----------
+Label    = [   ]
+Size     = [ 120 ]
+hSize    = [ 12 ]
+TagCount = [ 8 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x0d
+usDepth = 7
+ubFlag = 0x20
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 7 ] : Translate
+param = none
+param = 60 : 3.000000
+ubFlag = 0x00
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 9
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = 960 : 48.000000
+param = 320 : 16.000000
+ubFlag = 0x00
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x0d
+usDepth = 11
+ubFlag = 0x20
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 7 ] : Translate
+param = none
+param = 60 : 3.000000
+ubFlag = 0x00
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 12 ]
+ubPlaceFlag = 0x0d
+usDepth = 13
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = 960 : 48.000000
+param = 320 : 16.000000
+ubFlag = 0x00
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 15
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 72971 : 1.113449
+param = 72971 : 1.113449
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = -104 : -5.200000
+param = -277 : -13.850000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 194 : 0.757813
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 17
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 76688 : 1.170166
+param = 76688 : 1.170166
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = -243 : -12.150000
+param = -429 : -21.450000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 164 : 0.640625
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 19
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 80407 : 1.226913
+param = 80407 : 1.226913
+param = none
+param = none
+ubNbits = [ 11 ] : Translate
+param = -383 : -19.150000
+param = -582 : -29.100000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 133 : 0.519531
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 140 >----------
+Label    = [   ]
+Size     = [ 64 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 15
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 69254 : 1.056732
+param = 69254 : 1.056732
+param = none
+param = none
+ubNbits = [ 8 ] : Translate
+param = 36 : 1.800000
+param = -125 : -6.250000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 225 : 0.878906
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 17
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 72971 : 1.113449
+param = 72971 : 1.113449
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = -104 : -5.200000
+param = -277 : -13.850000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 194 : 0.757813
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 19
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 76688 : 1.170166
+param = 76688 : 1.170166
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = -243 : -12.150000
+param = -429 : -21.450000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 164 : 0.640625
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 141 >----------
+Label    = [   ]
+Size     = [ 56 ]
+hSize    = [ 12 ]
+TagCount = [ 4 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x0d
+usDepth = 15
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 9 ] : Translate
+param = 177 : 8.850000
+param = 27 : 1.350000
+ubFlag = 0x00
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 17
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 69254 : 1.056732
+param = 69254 : 1.056732
+param = none
+param = none
+ubNbits = [ 8 ] : Translate
+param = 36 : 1.800000
+param = -125 : -6.250000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 225 : 0.878906
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 19
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 72971 : 1.113449
+param = 72971 : 1.113449
+param = none
+param = none
+ubNbits = [ 10 ] : Translate
+param = -104 : -5.200000
+param = -277 : -13.850000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 194 : 0.757813
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 142 >----------
+Label    = [   ]
+Size     = [ 36 ]
+hSize    = [ 12 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x0d
+usDepth = 17
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 9 ] : Translate
+param = 177 : 8.850000
+param = 27 : 1.350000
+ubFlag = 0x00
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 16 ]
+ubPlaceFlag = 0x0d
+usDepth = 19
+ubFlag = 0x35
+ubNbits = [ 18 ] : Scale
+param = 69254 : 1.056732
+param = 69254 : 1.056732
+param = none
+param = none
+ubNbits = [ 8 ] : Translate
+param = 36 : 1.800000
+param = -125 : -6.250000
+ubFlag = 0x08
+ubNbits = [ 10 ]
+mul = none
+mul = none
+mul = none
+mul = 225 : 0.878906
+add = none
+add = none
+add = none
+add = none
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 143 >----------
+Label    = [ fl_wait_4 ]
+Size     = [ 28 ]
+hSize    = [ 20 ]
+TagCount = [ 3 ]
+///////////////////////////////////////
+TagName[ DoAction ](ID = [ 12 ])
+TagSize[ 8 ]
+ubActionId = 0x07 : ActionStop
+usActionSize = 0
+ubActionId = 0x00 : ActionEnd
+usActionSize = 0
+///////////////////////////////////////
+TagName[ PlaceObject2 ](ID = [ 26 ])
+TagSize[ 8 ]
+ubPlaceFlag = 0x0d
+usDepth = 19
+ubFlag = 0x24
+param = none
+param = none
+param = none
+param = none
+ubNbits = [ 9 ] : Translate
+param = 177 : 8.850000
+param = 27 : 1.350000
+ubFlag = 0x00
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 144 >----------
+Label    = [   ]
+Size     = [ 148 ]
+hSize    = [ 12 ]
+TagCount = [ 19 ]
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 3
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 5
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 7
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 9
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 11
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 13
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 15
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 17
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 19
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 21
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 22
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 24
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 25
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 26
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 27
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 28
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 29
+///////////////////////////////////////
+TagName[ RemoveObject2 ](ID = [ 28 ])
+TagSize[ 4 ]
+usDepth = 30
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 145 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 146 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 147 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 148 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 149 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 150 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 151 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 152 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 153 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 154 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 155 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 156 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 157 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 158 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 159 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 160 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 161 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 162 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 163 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 164 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 165 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 166 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 167 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 168 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 169 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 170 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 171 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 172 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 173 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 174 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 175 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 176 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 177 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 178 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 179 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 180 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 181 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 182 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 183 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 184 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 185 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 186 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 187 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 188 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 189 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 190 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 191 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 192 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 193 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 194 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 195 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 196 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 197 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 198 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 199 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 200 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 201 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 202 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 203 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 204 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 205 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 206 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 207 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 208 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 209 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 210 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 211 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 212 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 213 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 214 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 215 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 216 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 217 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 218 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 219 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 220 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 221 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 222 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 223 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 224 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 225 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 226 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 227 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 228 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 229 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 230 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 231 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 232 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 233 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 234 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 235 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 236 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 237 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 238 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 239 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 240 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 241 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 242 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 243 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 244 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 245 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 246 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 247 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 248 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 249 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 250 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 251 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 252 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 253 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 254 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 255 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 256 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 257 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 258 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 259 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 260 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 261 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 262 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 263 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 264 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 265 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 266 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 267 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 268 >----------
+Label    = [   ]
+Size     = [ 4 ]
+hSize    = [ 12 ]
+TagCount = [ 1 ]
+///////////////////////////////////////
+TagName[ ShowFrame ](ID = [ 1 ])
+TagSize[ 0 ]
+----------< FrameIndex = 269 >----------
+Label    = [   ]
+Size     = [ 0 ]
+hSize    = [ 12 ]
+TagCount = [ 0 ]

@@ -1,0 +1,1 @@
+[ 重複インスタンス名 : ins_mainmenu_img ]
