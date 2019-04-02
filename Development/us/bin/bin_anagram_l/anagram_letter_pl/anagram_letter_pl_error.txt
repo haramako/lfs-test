@@ -1,3 +1,0 @@
-[ 重複インスタンス名 : alpha_add_anagram_question_icn ]
-[ 重複インスタンス名 : alpha_add_anagram_question_icn ]
-[ 重複インスタンス名 : alpha_add_anagram_question_icn ]
