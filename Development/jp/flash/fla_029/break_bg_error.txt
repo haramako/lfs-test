@@ -1,0 +1,4 @@
+[ 重複インスタンス名 : alpha_add_break_line_2 ]
+[ 重複インスタンス名 : alpha_add_break_line_1 ]
+[ 重複インスタンス名 : alpha_add_break_line_3 ]
+[ 重複インスタンス名 : alpha_add_break_line_3 ]
