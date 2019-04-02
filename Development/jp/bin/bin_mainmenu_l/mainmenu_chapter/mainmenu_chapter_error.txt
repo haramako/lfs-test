@@ -1,2 +1,0 @@
-[ 重複インスタンス名 : ins_mainmenu_chapter_tx ]
-[ 重複インスタンス名 : ins_mainmenu_chapter_num ]
